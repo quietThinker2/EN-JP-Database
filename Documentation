@@ -1,0 +1,181 @@
+5-6-23 - 5-8-23
+
+This document is an overview of the process taken to create a Database and populate EN-JP translations into a table.
+
+1. Created the Database, table, and columns
+2. Populated the table with each individual file
+    1st Source is grabbing data with only 2 values
+    2nd Source is grabbing data with 3 values
+3. Segment List
+4. Github
+    Why
+    URL
+
+
+
+1. Created the Database, table, and columns
+    Database EN-JB-DB.db
+    Table: DATA
+    Columns: japanese,english,romaji,type,segmentName,segmentNumber
+    Source:
+
+import java.sql.*;
+
+public class CreateSQLiteTable {
+
+
+    public static void main(String[] args) {
+        Connection conn = null;
+
+        try {
+            // Connect to the database
+            Class.forName("org.sqlite.JDBC");
+            conn = DriverManager.getConnection("jdbc:sqlite:/home/rwalters/Zev/SQL/EN-JP/EN-JB-DB.db");
+
+            // Create the table and columns
+            Statement stmt = conn.createStatement();
+            String sql = "CREATE TABLE DATA " +
+                    "(id INTEGER PRIMARY KEY AUTOINCREMENT, " +
+                    "japanese TEXT, " +
+                    "english TEXT, " +
+                    "romaji TEXT, " +
+                    "type CHAR(1), " +
+                    "segmentNumber INTEGER, " +
+                    "segmentName TEXT)";
+            stmt.executeUpdate(sql);
+
+            // Close the connection
+            conn.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+2. Populated the table with each individual file
+
+    1st Source is grabbing data with only 2 values
+    
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.sql.*;
+import java.util.Scanner;
+
+public class CreateSQLiteTable {
+
+
+    public static void main(String[] args) {
+
+        String fileName = "/home/rwalters/Zev/Java/EN-JP/dbDataFiles/vocabFiles/01";
+        String url = "jdbc:sqlite:/home/rwalters/Zev/SQL/EN-JP/EN-JB-DB.db";
+        String tableName = "DATA";
+
+        try (Connection conn = DriverManager.getConnection(url);
+             BufferedReader br = new BufferedReader(new FileReader(fileName))) {
+
+            String line;
+            String insertQuery = "INSERT INTO " + tableName + " (japanese, english, segmentName, segmentNumber) VALUES (?, ?, ?, ?)";
+            PreparedStatement pstmt = conn.prepareStatement(insertQuery);
+
+            while ((line = br.readLine()) != null) {
+                String[] values = line.split(",");
+                pstmt.setString(1, values[0]);
+                pstmt.setString(2, values[1]);
+                pstmt.setString(3, "Katakana");
+                pstmt.setInt(4, 2);
+                pstmt.executeUpdate();
+            }
+
+            System.out.println("Data inserted successfully");
+
+        } catch (SQLException e) {
+            System.out.println("SQLException: " + e.getMessage());
+        } catch (Exception e) {
+            System.out.println("Exception: " + e.getMessage());
+        }
+    }
+
+}
+
+
+    2nd Source is grabbing data with 3 values
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.sql.*;
+
+public class CreateSQLiteTable {
+    
+    public static void main(String[] args) {
+
+        String fileName = "/home/rwalters/Zev/Java/EN-JP/dbDataFiles/sentenceFiles/10";
+        String url = "jdbc:sqlite:/home/rwalters/Zev/SQL/EN-JP/EN-JB-DB.db";
+        String tableName = "DATA";
+
+        try (Connection conn = DriverManager.getConnection(url);
+             BufferedReader br = new BufferedReader(new FileReader(fileName))) {
+
+            String line;
+            String insertQuery = "INSERT INTO " + tableName + " (japanese, english, romaji, segmentName, segmentNumber, type) VALUES (?, ?, ?, ?, ?, ?)";
+            PreparedStatement pstmt = conn.prepareStatement(insertQuery);
+
+            while ((line = br.readLine()) != null) {
+                String[] values = line.split(",");
+                pstmt.setString(1, values[0]);
+                pstmt.setString(2, values[1]);
+                pstmt.setString(3, values[2]);
+                pstmt.setString(4, "Order Food 1");
+                pstmt.setInt(5, 3);
+                pstmt.setString(6, "S");
+                pstmt.executeUpdate();
+            }
+            System.out.println("Data inserted successfully");
+
+        } catch (SQLException e) {
+            System.out.println("SQLException: " + e.getMessage());
+        } catch (Exception e) {
+            System.out.println("Exception: " + e.getMessage());
+        }
+    }
+
+}
+
+
+
+3. Segment List
+    Names                       File        Status
+    ----------------------Zero----------------------
+    1. Hiragana                 00          Finished
+    2. Katakana                 01          Finished
+    ----------------------One----------------------
+    3. Order Food 1             10          Finished
+    4. Describe People          11          
+    5. Order Food 2
+    ----------------------Two----------------------
+    6. Introduce Yourself
+    7. Describe People
+    8. Order Food 3
+    9. Order Food and Drink 
+    10. Introduce Yourself 2
+    ----------------------Three----------------------
+    ----------------------Four----------------------
+    11.
+    12.
+    13.
+    14.
+    15.
+    16.
+    17.
+    18.
+    19
+    20.
+    
+    
+4. Github
+    Why: 
+        1. Easily retrievable
+        2. Can fall back on an earlier versionq
+    URL:
+        https://github.com/quietThinker2/EN-JP-Database/
