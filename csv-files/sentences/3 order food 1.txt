@@ -1,0 +1,44 @@
+すしください,sushi please,sushi kudasai
+ごはんください,rice please,gohan kudasai
+みずください,water please,mizu kudasai
+おちゃください,green tea please,ochya kudasai
+みずです,it's water,mizu desu
+すしです,it's sushi,sushi desu
+おちゃです,it's green tea,ochya desu
+ごはんです,it's rice,gohan desu
+みずとごはん,water and rice,mizu to gohan
+みずとすし,water and sushi,mizu to sushi
+みずとおちゃ,water and green tea,mizu to ochya
+ごはんとおちゃ,rice and green tea,gohan to ochya
+ごはんとすし,rice and sushi,gohan to sushi
+ごはんとみず,rice and water,gohan to mizu
+すしとごはん,sushi and rice,sushi to gohan
+すしとみず,sushi and water,sushi to mizu
+すしとおちゃ,sushi and green tea,sushi to ochya
+おちゃとすし,green tea and sushi,ochya to sushi
+おちゃとみず,green tea and water,ochya to mizu
+おちゃとごはん,green tea and rice,ochya to gohan
+みずとごはんです,it's water and rice,mizu to gohan desu
+みずとすしです,it's water and sushi,mizu to sushi desu
+みずとおちゃです,it's water and green tea,mizu to ochya desu
+ごはんとおちゃです,it's rice and green tea,gohan to ochya desu
+ごはんとすしです,it's rice and sushi,gohan to sushi desu
+ごはんとみずです,it's rice and water,gohan to mizu desu
+すしとごはんです,it's sushi and rice,sushi to gohan desu
+すしとみずです,it's sushi and water,sushi to mizu desu
+すしとおちゃです,it's sushi and green tea,sushi to ochya desu
+おちゃとすしです,it's green tea and sushi,ochya to sushi desu
+おちゃとみずです,it's green tea and water,ochya to mizu desu
+おちゃとごはんです,it's green tea and rice,ochya to gohan desu
+みずとごはんください,water and rice please,mizu to gohan kudasai
+みずとすしですください,water and sushi please,mizu to sushi kudasai
+みずとおちゃください,water and green tea please,mizu to ochya kudasai
+ごはんとおちゃください,rice and green tea please,gohan to ochya kudasai
+ごはんとすしください,rice and sushi please,gohan to sushi kudasai
+ごはんとみずください,rice and water please,gohan to mizu kudasai
+すしとごはんください,sushi and rice please,sushi to gohan kudasai
+すしとみずください,sushi and water please,sushi to mizu kudasai
+すしとおちゃください,sushi and green tea please,sushi to ochya kudasai
+おちゃとすしください,green tea and sushi please,ochya to sushi kudasai
+おちゃとみずください,green tea and water please,ochya to mizu kudasai
+おちゃとごはんください,green tea and rice please,ochya to gohan kudasai

@@ -1,0 +1,7 @@
+すし,sushi,sushi
+みず,water,mizu
+おちゃ,green tea,ochya
+ください,please,kudasai
+ごはん,rice,gohan
+と,and,to
+です,desu,desu

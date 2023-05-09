@@ -1,0 +1,107 @@
+いしゃです,they are a doctor,ishya desu
+ひとです,they are a person,hito desu
+せんせいです,they are a teacher,sensei desu
+がくせい,they are a student,gakusei desu
+べんごし,they are a lawyer,bengoshi desu
+やさしいです,they are nice,yasashii desu
+かっこいいです,they are cool,kakoii desu
+かっこいいがくせい,a cool student,kakoii gakusei
+かっこいいいしゃ,a cool doctor,kakoii ishya
+かっこいいべんごし,a cool lawyer,kakoii bengoshi
+かっこいいせんせい,a cool teacher,kakoii sensei
+かっこいいひと,a cool person,kakoii hito
+やさしいべんごし,a nice lawyer,yasashii bengoshi
+やさしいひと,a nice person,yasashii hito
+やさしいがくせい,a nice student,yasashii gakusei
+やさしいせんせい,a nice teacher,yasashii sensei
+やさしいいしゃ,a nice doctor,yasashii ishya
+やさしいいしゃです,they are a nice doctor,yasashii ishya desu
+やさしいべんごしです,they are a nice lawyer,yasashii bengoshi desu
+やさしいがくせいです,they are a nice student,yasashii gakusei desu
+やさしいせんせいです,they are a nice teacher,yasashii sensei desu
+やさしいひとです,they are a nice person,yasashii hito desu
+かっこいいいしゃです,they are a cool doctor,kakoii ishya desu
+かっこいいべんごしです,they are a cool lawyer,kakoii bengoshi desu
+かっこいいがくせいです,they are a cool student,kakoii gakusei desu
+かっこいいせんせいです,they are a cool teacher,kakoii sensei desu
+かっこいいひとです,they are a cool person,kakoii hito desu
+やさしいせんせいとやさしいいしゃ,a nice teacher and a nice doctor,yasashii sensei to yasashii ishya
+やさしいせんせいとがくせい,a nice teacher and a nice student,yasashii sensei to yasashii gakusei
+やさしいせんせいとべんごし,a nice teacher and a nice lawyer,yasashii sensei to yasashii bengoshi
+やさしいせんせいとひと,a nice teacher and a nice person,yasashii sensei to yasashii hito
+やさしいいしゃとやさしいがくせい,a nice doctor and a nice student,yasashii ishya to gakusei
+やさしいいしゃとやさしいせんせい,a nice doctor and a nice teacher,yasashii ishya to sensei
+やさしいいしゃとやさしいひと,a nice doctor and a nice person,yasashii ishya to hito
+やさしいいしゃとやさしいべんごし,a nice doctor and a nice lawyer,yasashii ishya to bengoshi
+やさしいがくせいとやさしいいしゃ,a nice student and a nice doctor,yasashii gakusei to ishya 
+やさしいがくせいとやさしいせんせい,a nice student and a nice teacher,yasashii gakusei to sensei
+やさしいがくせいとやさしいひと,a nice student and a nice person,yasashii gakusei to hito
+やさしいがくせいとやさしいべんごし,a nice student and a nice lawyer,yasashii gakusei to bengoshi
+やさしいひととやさしいがくせい,a nice person and a nice student,yasashii hito to gakusei 
+やさしいひととやさしいいしゃ,a nice person and a nice doctor,yasashii hito to ishya
+やさしいひととやさしいせんせい,a nice person and a nice teacher,yasashii hito to sensei
+やさしいひととやさしいべんごし,a nice person and a nice lawyer,yasashii hito to bengoshi
+やさしいべんごしとやさしいがくせい,a nice lawyer and a nice student,yasashii bengoshi to yasashii gakusei 
+やさしいべんごしとやさしいいしゃ,a nice lawyer and a nice doctor,yasashii bengoshi to yasashii ishya
+やさしいべんごしとやさしいせんせい,a nice lawyer and a nice teacher,yasashii bengoshi to yasashii sensei
+やさしいべんごしとやさしいひと,a nice lawyer and a nice person,yasashii bengoshi to yasashii hito
+やさしいせんせいとかっこいいがくせい,a nice teacher and a cool student,yasashii sensei to kakoii gakusei
+やさしいせんせいとかっこいいいしゃ,a nice teacher and a cool doctor,yasashii sensei to kakoii ishya
+やさしいせんせいとかっこいいべんごし,a nice teacher and a cool lawyer,yasashii sensei to kakoii bengoshi
+やさしいせんせいとかっこいいひと,a nice teacher and a cool person,yasashii sensei to kakoii hito
+やさしいいしゃとかっこいいかくせい,a nice doctor and a cool student,yasashii ishya to kakoii gakusei
+やさしいいしゃとかっこいいせんせい,a nice doctor and a cool teacher,yasashii ishya to kakoii sensei
+やさしいいしゃとかっこいいひと,a nice doctor and a cool person,yasashii ishya to kakoii hito
+やさしいいしゃとかっこいいべんごし,a nice doctor and a cool lawyer,yasashii ishya to kakoii bengoshi
+やさしいがくせいとかっこいいいしゃ,a nice student and a cool doctor,yasashii gakusei to kakoii ishya
+やさしいがくせいとかっこいいせんせい,a nice student and a cool teacher,yasashii gakusei to kakoii sensei 
+やさしいがくせいとかっこいいひと,a nice student and a cool person,yasashii gakusei to kakoii hito
+やさしいがくせいとかっこいいべんごし,a nice student and a cool lawyer,yasashii gakusei to gakusei bengoshi
+やさしいひととかっこいいがくせい,a nice person and a cool student,yasashii hito to kakoii gakusei
+やさしいひととかっこいいいしゃ,a nice person and a cool doctor,yasashii hito to kakoii ishya
+やさしいひととかっこいいせんせい,a nice person and a cool teacher,yasashii hito to kakoii sensei
+やさしいひととかっこいいべんごし,a nice person and a cool lawyer,yasashii hito to kakoii bengoshi
+やさしいべんごしとかっこいいせんせい,a nice lawyer and a cool teacher,yasashii bengoshi to kakoii sensei
+やさしいべんごしとかっこいいいしゃ,a nice lawyer and a cool doctor,yasashii bengoshi to kakoii ishya
+やさしいべんごしとかっこいいがくせい,a nice lawyer and a cool student,yasashii bengoshi to kakoii gakusei
+やさしいべんごしとかっこいいひと,a nice lawyer and a cool person,yasashii bengoshi to kakoii hito
+かっこいいせんせいとやさしいいしゃ,a cool teacher and a nice doctor,kakoii sensei to yasashii ishya
+かっこいいせんせいとやさしいがくせい,a cool teacher and a nice student,kakoii sensei to yasashii gakusei
+かっこいいせんせいとやさしいべんごし,a cool teacher and a nice lawyer,kakoii sensei to yasashii bengoshi
+かっこいいせんせいとやさしいひと,a cool teacher and a nice person,kakoii sensei to yasashii hito
+かっこいいいしゃとやさしいがくせい,a cool doctor and a nice student,kakoii ishya to yasashii gakusei
+かっこいいいしゃとやさしいせんせい,a cool doctor and a nice teacher,kakoii ishya to yasashii sensei
+かっこいいいしゃとやさしいひと,a cool doctor and a nice person,kakoii ishya to yasashii hito
+かっこいいいしゃとやさしいべんごし,a cool doctor and a nice lawyer,kakoii ishya to yasashii bengoshi
+かっこいいがくせいとやさしいいしゃ,a cool student and a nice doctor,kakoii gakusei to yasashii ishya
+かっこいいがくせいとやさしいせんせい,a cool student and a nice teacher,kakoii gakusei to yasashii sensei
+かっこいいがくせいとやさしいひと,a cool student and a nice person,kakoii gakusei to yasashii hito
+かっこいいがくせいとやさしいべんごし,a cool student and a nice lawyer,kakoii gakusei to yasashii bengoshi
+かっこいいひととやさしいがくせい,a cool person and a nice student,kakoii hito to yasashii gakusei
+かっこいいひととやさしいいしゃ,a cool person and a nice doctor,kakoii hito to yasashii ishya
+かっこいいひととやさしいせんせい,a cool person and a nice teacher,kakoii hito to yasashii sensei
+かっこいいひととやさしいべんごし,a cool person and a nice lawyer,kakoii hito to yasashii bengoshi
+かっこいいべんごしとやさしいがくせい,a cool lawyer and a nice student,kakoii bengoshi to yasashii gakusei
+かっこいいべんごしとやさしいいしゃ,a cool lawyer and a nice doctor,kakoii bengoshi to yasashii ishya
+かっこいいべんごしとやさしいせんせい,a cool lawyer and a nice teacher,kakoii bengoshi to yasashii sensei
+かっこいいべんごしとやさしいひと,a cool lawyer and a nice person,kakoii bengoshi to yasashii hito
+かっこいいせんせいとかっこいいいしゃ,a cool teacher and a cool doctor,kakoii sensei to kakoii ishya
+かっこいいせんせいとかっこいいがくせい,a cool teacher and a cool student,kakoii sensei to kakoii gakusei
+かっこいいせんせいとかっこいいべんごし,a cool teacher and a cool lawyer,kakoii sensei to kakoii bengoshi
+かっこいいせんせいとかっこいいひと,a cool teacher and a cool person,kakoii sensei to kakoii hito
+かっこいいいしゃとかっこいいがくせい,a cool doctor and a cool student,kakoii ishya to kakoii gakusei
+かっこいいいしゃとかっこいいせんせい,a cool doctor and a cool teacher,kakoii ishya to kakoii sensei
+かっこいいいしゃとかっこいいひと,a cool doctor and a cool person,kakoii ishya to kakoii hito
+かっこいいいしゃとかっこいいべんごし,a cool doctor and a cool lawyer,kakoii ishya to kakoii bengoshi
+かっこいいがくせいとかっこいいいしゃ,a cool student and a cool doctor,kakoii gakusei to kakoii ishya
+かっこいいがくせいとかっこいいせんせい,a cool student and a cool teacher,kakoii gakusei to kakoii sensei
+かっこいいがくせいとかっこいいひと,a cool student and a cool person,kakoii gakusei to kakoii hito
+かっこいいがくせいとかっこいいべんごし,a cool student and a cool lawyer,kakoii gakusei to kakoii bengoshi
+かっこいいひととかっこいいがくせい,a cool person and a cool student,kakoii hito to kakoii gakusei
+かっこいいひととかっこいいいしゃ,a cool person and a cool doctor,kakoii hito to kakoii ishya
+かっこいいひととかっこいいせんせい,a cool person and a cool teacher,kakoii hito to kakoii sensei
+かっこいいひととかっこいいべんごし,a cool person and a cool lawyer,kakoii hito to kakoii bengoshi
+かっこいいべんごしとかっこいいがくせい,a cool lawyer and a cool student,kakoii bengoshi to kakoii gakusei
+かっこいいべんごしとかっこいいいしゃ,a cool lawyer and a cool doctor,kakoii bengoshi to kakoii ishya
+かっこいいべんごしとかっこいいせんせい,a cool lawyer and a cool teacher,kakoii bengoshi to kakoii sensei
+かっこいいべんごしとかっこいいひと,a cool lawyer and a cool person,kakoii bengoshi to kakoii hito

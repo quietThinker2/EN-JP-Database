@@ -1,0 +1,7 @@
+べんごし,lawyer,bengoshi
+いしゃ,doctor,ishya
+せんせい,teacher,sensei
+がくせい,student,gakusei
+ひと,person,hito
+やさしい,nice,yasashi
+かっこいい,cool,kakoii
