@@ -1,0 +1,9 @@
+なおみ,Naomi,naomi
+けん,Ken,ken
+はな,Hana,hana
+さん,mr or ms,san
+どうぞよろしく,nice to meet you,douzoyoroshiku
+じゃあね,bye,jyaane
+こんばんは,good evening,konbanwa
+こんにちは,hello/good afternoon,konnichiwa
+またあした,see you tomorrow,mata ashita

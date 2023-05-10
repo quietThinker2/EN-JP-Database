@@ -1,0 +1,49 @@
+けんです,i am Ken,ken desu
+なおみです,i am Naomi,naomi desu
+はなです,i am Hana,hana desu
+なおみですどうぞよろしく,i am Naomi nice to meet you,naomi desu douzoyoroshiku
+けんですどうぞよろしく,i am Ken nice to meet you,ken desu douzoyoroshiku
+はなですどうぞよろしく,i am Hana nice to meet you,hana desu douzoyoroshiku
+なおみさんどうぞよろしく,Naomi nice to meet you,naomi san douzoyoroshiku
+けんさんどうぞよろしく,Ken nice to meet you,ken san douzoyoroshiku
+はなさんどようぞろしく,Hana nice to meet you,hana san douzoyoroshiku
+けんさんこんにちは,Ken hello,ken san konnichiwa
+はなさんこんにちは,Hana hello,hana san konnichiwa
+なおみさんこんにちは,Naomi hello,naomi san konnichiwa
+こんにちはけんさん,hello Ken,konnichiwa ken san
+こんにちははなさん,hello Hana,konnichiwa hana san
+こんにちはなおみさん,hello Naomi,konnichiwa naomi san
+はなさんじゃあね,Hana bye,hana san jyaane
+けんさんじゃあね,Ken bye,ken san jyaane
+なおみさんじゃあね,Naomi bye,naomi san jyaane
+じゃあねはなさん,bye Hana,jyaane hana san
+じゃあねけんさん,bye Ken,jyaane ken san
+じゃあねなおみさん,bye Naomi,jyaane naomi san
+こんばんはけんです,good evening i am Ken,konbonwa ken desu
+こんばんははなです,good evening i am Hana,konbonwa hana desu
+こんばんはなおみです,good evening i am Naomi,konbonwa naomi desu
+けんですこんばんは,i am Ken good evening,ken desu konbonwa
+はなですこんばんは,i am Hana good evening,hana desu konbonwa
+なおみですこんばんは,i am Naomi good evening,naomi desu konbonwa
+けんさんこんばんは,Ken good evening,ken san konbonwa
+はなさんこんばんは,Hana good evening,hana san konbonwa
+なおみさんこんばんは,Naomi good evening,naomi san konbonwa
+こんばんはけんさん,good evening Ken,konbonwa ken san
+こんばんははなさん,good evening Hana,konbonwa hana san
+こんばんはなおみさん,good evening Naomi,konbonwa naomi san
+けんさんまたあした,Ken see you tomorrow,ken san mata ashita
+はなさんまたあした,Hana see you tomorrow,hana san mata ashita
+なおみさんまたあした,Naomi see you tomorrow,naomi san mata ashita
+またあしたけんさん,see you tomorrow Ken,mata ashita ken san
+またあしたはなさん,see you tomorrow Hana,mata ashita hana san
+またあしたなおみさん,see you tomorrow Naomi,mata ashita naomi san
+こんにちはけんです,hello i am Ken,konnichiwa ken desu
+こんにちははなです,hello i am Hana,konnichiwa hana desu
+こんにちはなおみです,hello i am Naomi,konnichiwa naomi desu
+けんですこんにちは,i am Ken hello,ken desu konnichiwa
+はなですこんにちは,i am Hana hello,hana desu konnichiwa
+なおみですこんにちは,i am Naomi hello,naomi desu konnichiwa
+こんにちはどうぞよろしく,hello nice to meet you,konnichiwa douzoyoroshiku
+こんばんはどうぞよろしく,good evening nice to meet you,konbonwa douzoyoroshiku
+じゃあねまたあした,bye see you tomorrow,jyaane mata ashita
+またあしたじゃあね,see you tomorrow bye,mata ashita jyaane

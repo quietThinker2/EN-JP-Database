@@ -2,10 +2,10 @@
 ごはんください,rice please,gohan kudasai
 みずください,water please,mizu kudasai
 おちゃください,green tea please,ochya kudasai
-みずです,it's water,mizu desu
-すしです,it's sushi,sushi desu
-おちゃです,it's green tea,ochya desu
-ごはんです,it's rice,gohan desu
+みずです,it is water,mizu desu
+すしです,it is sushi,sushi desu
+おちゃです,it is green tea,ochya desu
+ごはんです,it is rice,gohan desu
 みずとごはん,water and rice,mizu to gohan
 みずとすし,water and sushi,mizu to sushi
 みずとおちゃ,water and green tea,mizu to ochya
@@ -18,18 +18,18 @@
 おちゃとすし,green tea and sushi,ochya to sushi
 おちゃとみず,green tea and water,ochya to mizu
 おちゃとごはん,green tea and rice,ochya to gohan
-みずとごはんです,it's water and rice,mizu to gohan desu
-みずとすしです,it's water and sushi,mizu to sushi desu
-みずとおちゃです,it's water and green tea,mizu to ochya desu
-ごはんとおちゃです,it's rice and green tea,gohan to ochya desu
-ごはんとすしです,it's rice and sushi,gohan to sushi desu
-ごはんとみずです,it's rice and water,gohan to mizu desu
-すしとごはんです,it's sushi and rice,sushi to gohan desu
-すしとみずです,it's sushi and water,sushi to mizu desu
-すしとおちゃです,it's sushi and green tea,sushi to ochya desu
-おちゃとすしです,it's green tea and sushi,ochya to sushi desu
-おちゃとみずです,it's green tea and water,ochya to mizu desu
-おちゃとごはんです,it's green tea and rice,ochya to gohan desu
+みずとごはんです,it is water and rice,mizu to gohan desu
+みずとすしです,it is water and sushi,mizu to sushi desu
+みずとおちゃです,it is water and green tea,mizu to ochya desu
+ごはんとおちゃです,it is rice and green tea,gohan to ochya desu
+ごはんとすしです,it is rice and sushi,gohan to sushi desu
+ごはんとみずです,it is rice and water,gohan to mizu desu
+すしとごはんです,it is sushi and rice,sushi to gohan desu
+すしとみずです,it is sushi and water,sushi to mizu desu
+すしとおちゃです,it is sushi and green tea,sushi to ochya desu
+おちゃとすしです,it is green tea and sushi,ochya to sushi desu
+おちゃとみずです,it is green tea and water,ochya to mizu desu
+おちゃとごはんです,it is green tea and rice,ochya to gohan desu
 みずとごはんください,water and rice please,mizu to gohan kudasai
 みずとすしですください,water and sushi please,mizu to sushi kudasai
 みずとおちゃください,water and green tea please,mizu to ochya kudasai

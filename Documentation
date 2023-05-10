@@ -1,4 +1,4 @@
-5-6-23 - 5-8-23 - 5-9-23
+5-6-23 - 5-10-23
 
 This document is an overview of the process taken to create a Database and populate EN-JP translations into a table.
 
@@ -28,22 +28,23 @@ Document Content
 
 
 3. Segment List
-    Names                       File        Status
+    Name                        Status
     ----------------------Zero----------------------
-    1. Hiragana                 00          Finished
-    2. Katakana                 01          Finished
+    1. Hiragana                 Finished
+    2. Katakana                 Finished
     ----------------------One----------------------
-    3. Order Food 1             10          Finished
-    4. Describe People 1        11          Finished
-    5. Order Food 2
+    3. Order Food 1             Finished
+    4. Describe People 1        Finished
+    X. Order Food 2             Skipped (repeate of #3)            
     ----------------------Two----------------------
-    6. Introduce Yourself
-    7. Describe People
-    8. Order Food 3
-    9. Order Food and Drink 
-    10. Introduce Yourself 2
+    5. Introduce Yourself 1     Finished
+    6. Describe People 2
+    7. Order Food 2
+    8. Order Food and Drink 1 
+    9. Introduce Yourself 2
     ----------------------Three----------------------
     ----------------------Four----------------------
+    10.
     11.
     12.
     13.

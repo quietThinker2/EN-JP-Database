@@ -7,8 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String fileName = "/file/path/.txt";
-        String url = "jdbc:sqlite:/data/base/path/.db";
+        String fileName = "/home/rw/Zev/SQLite/EN-JP-Database/csv-files/vocab/2 katakana.txt";
+        String url = "jdbc:sqlite:/home/rw/Zev/SQLite/EN-JP-Database/EN-JB-DB.db";
         String tableName = "DATA";
 
         try (Connection conn = DriverManager.getConnection(url);

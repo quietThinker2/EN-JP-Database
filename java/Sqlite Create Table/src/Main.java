@@ -9,7 +9,7 @@ public class Main {
         try {
             // Connect to the database
             Class.forName("org.sqlite.JDBC");
-            conn = DriverManager.getConnection("jdbc:sqlite:/data/base/path/.db");
+            conn = DriverManager.getConnection("jdbc:sqlite:/home/rw/Zev/SQLite/EN-JP-Database/EN-JB-DB.db");
 
             // Create the table and columns
             Statement stmt = conn.createStatement();
