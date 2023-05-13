@@ -1,0 +1,9 @@
+ピザ,pizza,piza
+ケーキ,cake,keeki
+ラーメン,ramen,raamen
+カリー,curry,karii
+それ,that,sore
+これ,this,kore
+おいしい,tasty,oishii
+はい,yes,hai
+いいえ,no,iie

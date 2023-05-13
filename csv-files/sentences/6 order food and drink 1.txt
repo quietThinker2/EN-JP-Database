@@ -1,0 +1,616 @@
+ピザです,it is pizza,piza desu
+ケーキです,it is cake,keeki desu
+ラーメンです,it is ramen,raamen desu
+カリーです,it is curry,karii desu
+はいピザです,yes it is pizza,hai piza desu
+はいケーキです,yes it is cake,hai keeki desu
+はいラーメンです,yes it is ramen,hai raamen desu
+はいカリーです,yes it is curry,hai karii desu
+いいえピザです,no it is pizza,iie piza desu
+いいえケーキです,no it is cake,iie keeki desu
+いいえラーメンです,no it is ramen,iie raamen desu
+いいえカリーです,no it is curry,iie karii desu
+ピザですか,is it pizza,piza desu ka
+ケーキですか,is it cake,keeki desu ka
+ラーメンですか,is it ramen,raamen desu ka
+カレーですか,is it curry,karii desu ka
+おいしいです,it is tasty,oishii desu
+おいしいですか,is it tasty,oishii desu ka
+おいしいピザ,tasty pizza,oishii piza
+おいしいケーキ,tasty cake,oishii keeki
+おいしいラーメン,tasty ramen,oishii raamen
+おいしいカリー,tasty curry,oishii karii
+ピザはおいしいです,pizza is tasty,piza wa oishii desu
+ケーキはおいしいです,cake is tasty,caake wa oishii desu
+ラーメンはおいしいです,ramen is tasty,raamen wa oishii desu
+カレーはおいしいです,curry is tasty,karii wa oishii desu
+おいしいピザですか,is it tasty pizza,oishii piza desu ka
+おいしいケーキですか,is it tasty cake,oishii keeki desu ka
+おいしいラーメンですか,is it tasty ramen,oishii raamen desu ka
+おいしいカリーですか,is it tasty curry,oishii karii desu ka
+これとそれ,this and that,kore to sore
+それとこれ,that and this,sore to kore
+これはピザです,this is pizza,kore wa piza desu
+これはケーキです,this is cake,kore wa keeki desu
+これはラーメンです,this is ramen,kore wa raamen desu
+これはカリーです,this is curry,kore wa karii desu
+はいこれはピザです,yes this is pizza,hai kore wa piza desu
+はいこれはケーキです,yes this is cake,hai kore wa keeki desu
+はいこれはラーメンです,yes this is ramen,hai kore wa raamen desu
+はいこれはカリーです,yes this is curry,hai kore wa karii desu
+いいえこれはピザです,no this is pizza,iie kore wa piza desu
+いいえこれはケーキです,no this is cake,iie kore wa keeki desu
+いいえこれはラーメンです,no this is ramen,iie kore wa raamen desu
+いいえこれはカリーです,no this is curry,iie kore wa karii desu
+これはおいしいピザです,this is tasty pizza,kore wa oishii piza desu
+これはおいしいケーキです,this is tasty cake,kore wa oishii keeki desu
+これはおいしいラーメンです,this is tasty ramen,kore wa oishii raamen desu
+これはおいしいカリーです,this is tasty curry,kore wa oishii karii desu
+はいこれはおいしいラーメンです,yes this is tasty ramen,hai kore wa oishii raamen desu
+はいこれはおいしいケーキです,yes this is tasty cake,hai kore wa oishii desu
+はいこれはおいしいピザです,yes this is tasty pizza,hai kore wa oishii piza desu
+はいこれはおいしいカリーです,yes this is tasty curry,hai kore wa oishii karii desu
+これはピザですか,is this pizza,kore wa piza desu ka
+これはケーキですか,is this cake,kore wa keeki desu ka
+これはラーメンですか,is this ramen,kore wa raamen desu ka
+これはカリーですか,is this curry,kore wa karii desu ka
+これはおいしいピザですか,is this tasty pizza,kore wa oishii piza desu ka
+これはおいしいケーキですか,is this tasty cake,kore wa oishii keeki desu ka
+これはおいしいラーメンですか,is this tasty ramen,kore wa oishii raamen desu ka
+これはおいしいカリーですか,is this tasty curry,kore wa oishii karii desu ka
+はいこれはおいしいです,yes this is tasty,hai kore wa oishii desu
+いいえこれおいしいです,no this is tasty,iie kore wa oishii desu
+これはおいしいですか,is this tasty,kore wa oishii desu ka
+これはおいしいです,this is tasty,kore wa oishii desu
+それはピザです,that is pizza,sore wa piza desu
+それはケーキです,that is cake,sore wa keeki desu
+それはラーメンです,that is ramen,sore wa raamen desu
+それはカリーです,that is curry,sore wa karii desu
+はいそれはピザです,yes that is pizza,hai sore wa piza desu
+はいそれはケーキです,yes that is cake,hai sore wa keeki desu
+はいそれはラーメンです,yes that is ramen,hai sore wa raamen desu
+はいそれはカリーです,yes that is curry,hai sore wa karii desu
+いいえそれはピザです,no that is pizza,iie sore wa piza desu
+いいえそれはケーキです,no that is cake,iie sore wa keeki desu
+いいえそれはラーメンです,no that is ramen,iie sore wa raamen desu
+いいえそれはカレーです,no that is curry,iie sore wa karii desu
+それはおいしいピザです,that is tasty pizza,sore wa oishii piza desu
+それはおいしいケーキです,that is tasty cake,kore wa oishii keeki desu
+それはおいしいラーメンです,that is tasty ramen,sore wa oishii raamen desu
+それはおいしいカリーです,that is tasty curry,sore wa oishii karii desu
+はいそれはおいしいラーメンです,yes that is tasty ramen,hai sore wa oishii raamen desu
+はいそれはおいしいケーキです,yes that is tasty cake,hai sore wa oishii keeki desu
+はいそれはおいしいピザです,yes that is tasty pizza,hai sore wa oishii piza desu
+はいそれはおいしいカリーです,yes that is tasty curry,hai sore wa oishii karii desu
+それはピザですか,is that pizza,sore wa piza desu ka
+それはケーキですか,is that cake,sore wa keeki desu ka
+それはラーメンですか,is that ramen,sore wa raamen desu ka
+それはカリーですか,is that curry,sore wa karii desu ka
+それはおいしいピザですか,is that tasty pizza,sore wa oishii piza desu ka
+それはおいしいケーキですか,is that tasty cake,sore wa oishii keeki desu ka
+それはおいしいラーメンですか,is that tasty ramen,sore wa oishii ramen desu ka
+それはおいしいカリーですか,is that tasty curry,sore wa oishii karii desu ka
+それはおいしいですか,is that tasty,sore wa oishii desu ka
+はいそれはおいしいです,yes that is tasty,hai sore wa oishii desu
+いいえそれはおいしいです,no that is tasty,iie sore wa oishii desu
+それはおいしいです,that is tasty,sore wa oishii desu
+はいみずです,yes it is water,hai mizu desu
+はいごはんです,yes it is rice,hai gohan desu
+はいおちゃです,yes it is green tea,hai ochya desu
+はいすしです,yes it is sushi,hai sushi desu
+いいえみずです,no it is water,iie mizu desu
+いいえごはんです,no it is rice,iie gohan desu
+いいえおちゃです,no it is green tea,iie ochya desu
+いいえすしです,no it is sushi,iie sushi desu
+みずですか,is it water,mizu desu ka
+ごはんですか,is it rice,gohan desu ka
+おちゃですか,is it green tea,ochya desu ka
+すしですか,is it sushi,sushi desu ka
+おいしいみずですか,is it tasty water,oishii mizu desu ka
+おいしいごはんですか,is it tasty rice,oishii gohan desu ka
+おいしいおちゃですか,is it tasty green tea,oishii ochya desu ka
+おいしいすしですか,is it tasty sushi,oishii sushi desu ka
+おいしいみず,tasty water,oishii mizu
+おいしいごはん,tasty rice,oishii gohan
+おいしいおちゃ,tasty green tea,oishii ochya
+おいしいすし,tasty sushi,oishii sushi
+みずはおいしいです,water is tasty,mizu wa oishii desu
+ごはんはおいしいです,rice is tasty,gohan wa oishii desu
+おちゃはおいしいです,green tea is tasty,ochya wa oishii desu
+すしはおいしいです,sushi is tasty,sushi wa oishii desu
+これはみずです,this is water,kore wa mizu desu
+これはごはんです,this is rice,kore wa gohan desu
+これはおちゃです,this is green tea,kore wa ochya desu
+これはすしです,this is sushi,kore wa sushi desu
+はいこれはみずです,yes this is water,hai kore wa mizu desu
+はいこれはごはんです,yes this is rice,hai kore wa gohan desu
+はいこれはおちゃです,yes this is green tea,hai kore wa ochya desu
+はいこれはすしです,yes this is sushi,hai kore wa sushi desu
+いいえこれはみずです,no this is water,iie kore wa mizu desu
+いいえこれはごはんです,no this is rice,iie kore wa gohan desu
+いいえこれはおちゃです,no this is green tea,iie kore wa ochya desu
+いいえこれはすしです,no this is sushi,iie kore wa sushi desu
+これはおいしいみずです,this is tasty water,kore wa oishii mizu desu
+これはおいしいごはんです,this is tasty rice,kore wa oishii gohan desu
+これはおいしいおちゃです,this is tasty green tea,kore wa oishii ochya desu
+これはおいしいすしです,this is tasty sushi,kore wa oishii sushi desu
+これはみずですか,is this water,kore wa mizu desu ka
+これはごはんですか,is this rice,kore wa gohan desu ka
+これはおちゃですか,is this green tea,kore wa ochya desu ka
+これはすしですか,is this sushi,kore wa sushi desu ka
+これはおいしいみずですか,is this tasty water,kore wa oishii mizu desu ka
+これはおいしいごはんですか,is this tasty rice,kore wa oishii gohan desu ka
+これはおいしいおちゃですか,is this tasty green tea,kore wa oishii ochya desu ka
+これはおいしいすしですか,is this tasty sushi,kore wa oishii sushi desu ka
+それはみずです,that is water,sore wa mizu desu
+それはごはんです,that is rice,sore wa gohan desu
+それはおちゃです,that is green tea,sore wa ochya desu
+それはすしです,that is sushi,sore wa sushi desu
+はいそれはみずです,yes that is water,hai sore wa mizu desu
+はいそれはごはんです,yes that is rice,hai sore wa gohan desu
+はいそれはおちゃです,yes that is green tea,hai sore wa ochya desu
+はいそれはすしです,yes that is sushi,hai sore wa sushi desu
+いいえそれはみずです,no that is water,iie sore wa mizu desu
+いいえそれはごはんです,no that is rice,iie sore wa gohan desu
+いいえそれはおちゃです,no that is green tea,iie sore wa ochya desu
+いいえそれはすしです,no that is sushi,iie sore wa sushi desu
+それはおいしいみずです,that is tasty water,sore wa oishii mizu desu
+それはおいしいごはんです,that is tasty rice,sore wa oishii gohan desu
+それはおいしいおちゃです,that is tasty green tea,sore wa oishii ochya desu
+それはおいしいすしです,that is tasty sushi,sore wa oishii sushi desu
+それはみずですか,is that water,sore wa mizu desu ka
+それはごはんですか,is that rice,sore wa gohan desu ka
+それはおちゃですか,is that green tea,sore wa ochya desu ka
+それはすしですか,is that sushi,sore wa sushi desu ka
+それはおいしいみずですか,is that tasty water,sore wa oishii mizu desu ka
+それはおいしいごはんですか,is that tasty rice,sore wa oishii gohan desu ka
+それはおいしいおちゃですか,is that tasty green tea,sore wa oishii ochya desu ka
+それはおいしいすしですか,is that tasty sushi,sore wa oishii sushi desu ka
+これはピザとケーキです,this is pizza and cake,kore wa piza to keeki desu 
+これはピザとラーメンです,this is pizza and ramen,kore wa piza to raamen desu
+これはピザとカリーです,this is pizza and curry,kore wa piza to karii desu
+これはピザとみずです,this is pizza and water,kore wa piza to mizu desu
+これはピザとごはんです,this is pizza and rice,kore wa piza to gohan desu
+これはピザとおちゃです,this is pizza and green tea,kore wa piza to ochya desu
+これはピザとすしです,this is pizza and sushi,kore wa piza to sushi desu
+これはケーキとピザです,this is cake and pizza,kore wa keeki to piza desu
+これはケーキとラーメンです,this is cake and ramen,kore wa keeki to raamen desu
+これはケーキとカリーです,this is cake and curry,kore wa keeki to karii desu
+これはケーキとみずです,this is cake and water,kore wa keeki to mizu desu
+これはケーキとごはんです,this is cake and rice,kore wa keeki to gohan desu
+これはケーキとおちゃです,this is cake and green tea,kore wa keeki to ochya desu
+これはケーキとすしです,this is cake and sushi,kore wa keeki to sushi desu
+これはラーメンとピザです,this is ramen and pizza,kore wa raamen to piza desu 
+これはラーメンとケーキです,this is ramen and cake,kore wa raamen to keeki desu
+これはラーメンとカリーです,this is ramen and curry,kore wa raamen to karii desu
+これはラーメンとみずです,this is ramen and water,kore wa raamen to mizu desu
+これはラーメンとごはんです,this is ramen and rice,kore wa raamen to gohan desu
+これはラーメンとおちゃです,this is ramen and green tea,kore wa raamen to ochya desu
+これはラーメンとすしです,this is ramen and sushi,kore wa raamen to sushi desu
+これはカリーとピザです,this is curry and pizza,kore wa karii to piza desu
+これはカリーとケーキです,this is curry and cake,kore wa karii to keeki desu
+これはカリーとラーメンです,this is curry and ramen,kore wa karii to raamen desu
+これはカリーとみずです,this is curry and water,kore wa karii to mizu desu
+これはカリーとごはんです,this is curry and rice,kore wa karii to gohan desu
+これはカリーとおちゃです,this is curry and green tea,kore wa karii to ochya desu
+これはカリーとすしです,this is curry and sushi,kore wa karii to sushi desu
+これはみずとピザです,this is water and pizza,kore wa mizu to piza desu
+これはみずとケーキです,this is water and cake,kore wa mizu to keeki desu
+これはみずとラーメンです,this is water and ramen,kore wa mizu to raamen desu
+これはみずとカリーです,this is water and curry,kore wa mizu to karii desu
+これはみずとごはんです,this is water and rice,kore wa mizu to gohan desu
+これはみずとおちゃです,this is water and green tea,kore wa mizu to ochya desu
+これはみずとすしです,this is water and sushi,kore wa mizu to sushi desu
+これはごはんとピザです,this is rice and pizza,kore wa gohan to oiza desu
+これはごはんとケーキです,this is rice and cake,kore wa gohan to keeki desu
+これはごはんとラーメンです,this is rice and ramen,kore wa gohan to raamen desu
+これはごはんとカリーです,this is rice and curry,kore wa gohan to karii desu
+これはごはんとみずです,this is rice and water,kore wa gohan to mizu desu
+これはごはんとおちゃです,this is rice and green tea,kore wa gohan to ochya desu
+これはごはんとすしです,this is rice and sushi,kore wa gohan to sushi desu
+これはおちゃとピザです,this is green tea and pizza,kore wa ochya to piza desu
+これはおちゃとケーキです,this is green tea and cake,kore wa ochya to keeki desu
+これはおちゃとラーメンです,this is green tea and ramen,kore wa ochya to raamen desu
+これはおちゃとカリーです,this is green tea and curry,kore wa ochya to karii desu
+これはおちゃとみずです,this is green tea and water,kore wa ochya to mizu desu
+これはおちゃとごはんです,this is green tea and rice,kore wa ochya to gohan desu
+これはおちゃとすしです,this is green tea and sushi,kore wa ochya to sushi desu
+これはすしとピザです,this is sushi and pizza,kore wa sushi to piza desu
+これはすしとケーキです,this is sushi and cake,kore wa sushi to keeki desu
+これはすしとラーメンです,this is sushi and ramen,kore wa sushi to raamen desu
+これはすしとカリーです,this is sushi and curry,kore wa sushi to karii desu
+これはすしとみずです,this is sushi and water,kore wa sushi to mizu desu
+これはすしとごはんです,this is sushi and rice,kore wa sushi to gohan desu
+これはすしとおちゃです,this is sushi and green tea,kore wa sushi to ochya desu
+それはピザとケーキです,that is pizza and cake,sore wa piza to keeki desu
+それはピザとラーメンです,that is pizza and ramen,sore wa piza to raamen desu
+それはピザとカリーです,that is pizza and curry,sore wa piza to karii desu
+それはピザとみずです,that is pizza and water,sore wa piza to mizu desu
+それはピザとごはんです,that is pizza and rice,sore wa piza to gohan desu
+それはピザとおちゃです,that is pizza and green tea,sore wa piza to ochya desu
+それはピザとすしです,that is pizza and sushi,sore wa piza to sushi desu
+それはケーキとピザです,that is cake and pizza,sore wa keeki to piza desu
+それはケーキとラーメンです,that is cake and ramen,sore wa keeki to raamen desu
+それはケーキとカリーです,that is cake and curry,sore wa keeki to karii desu
+それはケーキとみずです,that is cake and water,sore wa keeki to mizu desu
+それはケーキとごはんです,that is cake and rice,sore wa keeki to gohan desu
+それはケーキとおちゃです,that is cake and green tea,sore wa keeki to ochya desu
+それはケーキとすしです,that is cake and sushi,sore wa keeki to sushi desu
+それはラーメンとピザです,that is ramen and pizza,sore wa raamen to piza desu
+それはラーメンとケーキです,that is ramen and cake,sore wa raamen to keeki desu
+それはラーメンとカリーです,that is ramen and curry,sore wa raamen to karii desu
+それはラーメンとみずです,that is ramen and water,sore wa raamen to mizu desu
+それはラーメンとごはんです,that is ramen and rice,sore wa raamen to gohan desu
+それはラーメンとおちゃです,that is ramen and green tea,sore wa raamen to ochya desu
+それはラーメンとすしです,that is ramen and sushi,sore wa raamen to sushi desu
+それはカリーとピザです,that is curry and pizza,sore wa karii to piza desu
+それはカリーとケーキです,that is curry and cake,sore wa karii to keeki desu
+それはカリーとラーメンです,that is curry and ramen,sore wa karii to raamen desu
+それはカリーとみずです,that is curry and water,sore wa karii to mizu desu
+それはカリーとごはんです,that is curry and rice,sore wa karii to gohan desu
+それはカリーとおちゃです,that is curry and green tea,sore wa karii to ochya desu
+それはカリーとすしです,that is curry and sushi,sore wa karii to sushi desu
+それはみずとピザです,that is water and pizza,sore wa mizu to piza desu
+それはみずとケーキです,that is water and cake,sore wa mizu to keeki desu
+それはみずとラーメンです,that is water and ramen,sore wa mizu to raamen desu
+それはみずとカリーです,that is water and curry,sore wa mizu to karii desu
+それはみずとごはんです,that is water and rice,sore wa mizu to gohan desu
+それはみずとおちゃです,that is water and green tea,sore wa mizu to ochya desu
+それはみずとすしです,that is water and sushi,sore wa mizu to sushi desu
+それはごはんとピザです,that is rice and pizza,sore wa gohan to piza desu
+それはごはんとケーキです,that is rice and cake,sore wa gohan to keeki desu
+それはごはんとラーメンです,that is rice and ramen,sore wa gohan to raamen desu
+それはごはんとカリーです,that is rice and curry,sore wa gohan to karii desu
+それはごはんとみずです,that is rice and water,sore wa gohan to mizu desu
+それはごはんとおちゃです,that is rice and green tea,sore wa gohan to ochya desu
+それはごはんとすしです,that is rice and sushi,sore wa gohan to sushi desu
+それはおちゃとピザです,that is green tea and pizza,sore wa ochya to piza desu
+それはおちゃとケーキです,that is green tea and cake,sore wa ochya to keeki desu
+それはおちゃとラーメンです,that is green tea and ramen,sore wa ochya to raamen desu
+それはおちゃとカリーです,that is green tea and curry,sore wa ochya to karii desu
+それはおちゃとみずです,that is green tea and water,sore wa ochya to mizu desu
+それはおちゃとごはんです,that is green tea and rice,sore wa ochya to gohan desu
+それはおちゃとすしです,that is green tea and sushi,sore wa ochya to sushi desu
+それはすしとピザです,that is sushi and pizza,sore wa sushi to piza desu
+それはすしとケーキです,that is sushi and cake,sore wa sushi to keeki desu
+それはすしとラーメンです,that is sushi and ramen,sore wa sushi to raamen desu
+それはすしとカリーです,that is sushi and curry,sore wa sushi to karii desu
+それはすしとみずです,that is sushi and water,sore wa sushi to mizu desu
+それはすしとごはんです,that is sushi and rice,sore wa sushi to gohan desu
+それはすしとおちゃです,that is sushi and green tea,sore wa sushi to ochya desu
+それはピザとケーキですか,is that pizza and cake,sore wa piza to keeki desu ka
+それはピザとラーメンですか,is that pizza and ramen,sore wa piza to raamen desu ka
+それはピザとカリーですか,is that pizza and curry,sore wa piza to karii desu ka
+それはピザとみずですか,is that pizza and water,sore wa piza to mizu desu ka
+それはピザとごはんですか,is that pizza and rice,sore wa piza to gohan desu ka
+それはピザとおちゃですか,is that pizza and green tea,sore wa piza to ochya desu ka
+それはピザとすしですか,is that pizza and sushi,sore wa piza to sushi desu ka
+それはケーキとピザですか,is that cake and pizza,sore wa keeki to piza desu ka
+それはケーキとラーメンですか,is that cake and ramen,sore wa keeki to raamen desu ka
+それはケーキとカリーですか,is that cake and curry,sore wa keeki to karii desu ka
+それはケーキとみずですか,is that cake and water,sore wa keeki to mizu desu ka
+それはケーキとごはんですか,is that cake and rice,sore wa keeki to gohan desu ka
+それはケーキとおちゃですか,is that cake and green tea,sore wa keeki to ochya desu ka
+それはケーキとすしですか,is that cake and sushi,sore wa keeki to sushi desu ka
+それはラーメンとピザですか,is that ramen and pizza,sore wa raamen to piza desu ka
+それはラーメンとケーキですか,is that ramen and cake,sore wa raamen to keeki desu ka
+それはラーメンとカリーですか,is that ramen and curry,sore wa raamen to karii desu ka
+それはラーメンとみずですか,is that ramen and water,sore wa raamen to mizu desu ka
+それはラーメンとごはんですか,is that ramen and rice,sore wa raamen to gohan desu ka
+それはラーメンとおちゃですか,is that ramen and green tea,sore wa raamen to ochya desu ka
+それはラーメンとすしですか,is that ramen and sushi,sore wa raamen to sushi desu ka
+それはカリーとピザですか,is that curry and pizza,sore wa karii to piza desu ka
+それはカリーとケーキですか,is that curry and cake,sore wa karii to keeki desu ka
+それはカリーとラーメンですか,is that curry and ramen,sore wa karii to raamen desu ka
+それはカリーとみずですか,is that curry and water,sore wa karii to mizu desu ka
+それはカリーとごはんですか,is that curry and rice,sore wa karii to gohan desu ka
+それはカリーとおちゃですか,is that curry and green tea,sore wa karii to ochya desu ka
+それはカリーとすしですか,is that curry and sushi,sore wa karii to sushi desu ka
+それはみずとピザですか,is that water and pizza,sore wa mizu to piza desu ka
+それはみずとケーキですか,is that water and cake,sore wa mizu to keeki desu ka
+それはみずとラーメンですか,is that water and ramen,sore wa mizu to raamen desu ka
+それはみずとカリーですか,is that water and curry,sore wa mizu to karii desu ka
+それはみずとごはんですか,is that water and rice,sore wa mizu to gohan desu ka
+それはみずとおちゃですか,is that water and green tea,sore wa mizu to ochya desu ka
+それはみずとすしですか,is that water and sushi,sore wa mizu to sushi desu ka
+それはごはんとピザですか,is that rice and pizza,sore wa gohan to piza desu ka
+それはごはんとケーキですか,is that rice and cake,sore wa gohan to keeki desu ka
+それはごはんとラーメンですか,is that rice and ramen,sore wa gohan to raamen desu ka
+それはごはんとカリーですか,is that rice and curry,sore wa gohan to karii desu ka
+それはごはんとみずですか,is that rice and water,sore wa gohan to mizu desu ka
+それはごはんとおちゃですか,is that rice and green tea,sore wa gohan to ochya desu ka
+それはごはんとすしですか,is that rice and sushi,sore wa gohan to sushi desu ka
+それはおちゃとピザですか,is that green tea and pizza,sore wa ochya to piza desu ka
+それはおちゃとケーキですか,is that green tea and cake,sore wa ochya to keeki desu ka
+それはおちゃとラーメンですか,is that green tea and ramen,sore wa ochya to raamen desu ka
+それはおちゃとカリーですか,is that green tea and curry,sore wa ochya to karii desu ka
+それはおちゃとみずですか,is that green tea and water,sore wa ochya to mizu desu ka
+それはおちゃとごはんですか,is that green tea and rice,sore wa ochya to gohan desu ka
+それはおちゃとすしですか,is that green tea and sushi,sore wa ochya to sushi desu ka
+それはすしとピザですか,is that sushi and pizza,sore wa sushi to piza desu ka
+それはすしとケーキですか,is that sushi and cake,sore wa sushi to keeki desu ka
+それはすしとラーメンですか,is that sushi and ramen,sore wa sushi to raamen desu ka
+それはすしとカリーですか,is that sushi and curry,sore wa sushi to karii desu ka
+それはすしとみずですか,is that sushi and water,sore wa sushi to mizu desu ka
+それはすしとごはんですか,is that sushi and rice,sore wa sushi to gohan desu ka
+それはすしとおちゃですか,is that sushi and green tea,sore wa sushi to ochya desu ka
+これはピザとケーキですか,is this pizza and cake,kore wa piza to keeki desu ka
+これはピザとラーメンですか,is this pizza and ramen,kore wa piza to raamen desu ka
+これはピザとカリーですか,is this pizza and curry,kore wa piza to karii desu ka
+これはピザとみずですか,is this pizza and water,kore wa piza to mizu desu ka
+これはピザとごはんですか,is this pizza and rice,kore wa piza to gohan desu ka
+これはピザとおちゃですか,is this pizza and green tea,kore wa piza to ochya desu ka
+これはピザとすしですか,is this pizza and sushi,kore wa piza to sushi desu ka
+これはケーキとピザですか,is this cake and pizza,kore wa keeki to piza desu ka
+これはケーキとラーメンですか,is this cake and ramen,kore wa keeki to raamen desu ka
+これはケーキとカリーですか,is this cake and curry,kore wa keeki to karii desu ka
+これはケーキとみずですか,is this cake and water,kore wa keeki to mizu desu ka
+これはケーキとごはんですか,is this cake and rice,kore wa keeki to gohan desu ka
+これはケーキとおちゃですか,is this cake and green tea,kore wa keeki to ochya desu ka
+これはケーキとすしですか,is this cake and sushi,kore wa keeki to sushi desu ka
+これはラーメンとピザですか,is this ramen and pizza,kore wa raamen to piza desu ka
+これはラーメンとケーキですか,is this ramen and cake,kore wa raamen to keeki desu ka
+これはラーメンとカリーですか,is this ramen and curry,kore wa raamen to karii desu ka
+これはラーメンとみずですか,is this ramen and water,kore wa raamen to mizu desu ka
+これはラーメンとごはんですか,is this ramen and rice,kore wa raamen to gohan desu ka
+これはラーメンとおちゃですか,is this ramen and green tea,kore wa raamen to ochya desu ka
+これはラーメンとすしですか,is this ramen and sushi,kore wa raamen to sushi desu ka
+これはカリーとピザですか,is this curry and pizza,kore wa karii to piza desu ka
+これはカリーとケーキですか,is this curry and cake,kore wa karii to keeki desu ka
+これはカリーとラーメンですか,is this curry and ramen,kore wa karii to raamen desu ka
+これはカリーとみずですか,is this curry and water,kore wa karii to mizu desu ka
+これはカリーとごはんですか,is this curry and rice,kore wa karii to gohan desu ka
+これはカリーとおちゃですか,is this curry and green tea,kore wa karii to ochya desu ka
+これはカリーとすしですか,is this curry and sushi,kore wa karii to sushi desu ka
+これはみずとピザですか,is this water and pizza,kore wa mizu to piza desu ka
+これはみずとケーキですか,is this water and cake,kore wa mizu to keeki desu ka
+これはみずとラーメンですか,is this water and ramen,kore wa mizu to raamen desu ka
+これはみずとカリーですか,is this water and curry,kore wa mizu to karii desu ka
+これはみずとごはんですか,is this water and rice,kore wa mizu to gohan desu ka
+これはみずとおちゃですか,is this water and green tea,kore wa mizu to ochya desu ka
+これはみずとすしですか,is this water and sushi,kore wa mizu to sushi desu ka
+これはごはんとピザですか,is this rice and pizza,kore wa gohan to piza desu ka
+これはごはんとケーキですか,is this rice and cake,kore wa gohan to keeki desu ka
+これはごはんとラーメンですか,is this rice and ramen,kore wa gohan to raamen desu ka
+これはごはんとカリーですか,is this rice and curry,kore wa gohan to karii desu ka
+これはごはんとみずですか,is this rice and water,kore wa gohan to mizu desu ka
+これはごはんとおちゃですか,is this rice and green tea,kore wa gohan to ochya desu ka
+これはごはんとすしですか,is this rice and sushi,kore wa gohan to sushi desu ka
+これはおちゃとピザですか,is this green tea and pizza,kore wa ochya to piza desu ka
+これはおちゃとケーキですか,is this green tea and cake,kore wa ochya to keeki desu ka
+これはおちゃとラーメンですか,is this green tea and ramen,kore wa ochya to raamen desu ka
+これはおちゃとカリーですか,is this green tea and curry,kore wa ochya to karii desu ka
+これはおちゃとみずですか,is this green tea and water,kore wa ochya to mizu desu ka
+これはおちゃとごはんですか,is this green tea and rice,kore wa ochya to gohan desu ka
+これはおちゃとすしですか,is this green tea and sushi,kore wa ochya to sushi desu ka
+これはすしとピザですか,is this sushi and pizza,kore wa sushi to piza desu ka
+これはすしとケーキですか,is this sushi and cake,kore wa sushi to keeki desu ka
+これはすしとラーメンですか,is this sushi and ramen,kore wa sushi to raamen desu ka
+これはすしとカリーですか,is this sushi and curry,kore wa sushi to karii desu ka
+これはすしとみずですか,is this sushi and water,kore wa sushi to mizu desu ka
+これはすしとごはんですか,is this sushi and rice,kore wa sushi to gohan desu ka
+これはすしとおちゃですか,is this sushi and green tea,kore wa sushi to ochya desu ka
+これはおいしいピザとケーキです,this is tasty pizza and cake,kore wa oishii piza to keeki desu
+これはおいしいピザとラーメンです,this is tasty pizza and ramen,kore wa oishii piza to raamen desu
+これはおいしいピザとカリーです,this is tasty pizza and curry,kore wa oishii piza to karii desu
+これはおいしいピザとみずです,this is tasty pizza and water,kore wa oishii piza to mizu desu
+これはおいしいピザとごはんです,this is tasty pizza and rice,kore wa oishii piza to gohan desu
+これはおいしいピザとおちゃです,this is tasty pizza and green tea,kore wa oishii piza to ochya desu
+これはおいしいピザとすしです,this is tasty pizza and sushi,kore wa oishii piza to sushi desu
+これはおいしいケーキとピザです,this is tasty cake and pizza,kore wa oishii keeki to piza desu
+これはおいしいケーキとラーメンです,this is tasty cake and ramen,kore wa oishii keeki to raamen desu
+これはおいしいケーキとカリーです,this is tasty cake and curry,kore wa oishii keeki to karii desu
+これはおいしいケーキとみずです,this is tasty cake and water,kore wa oishii keeki to mizu desu
+これはおいしいケーキとごはんです,this is tasty cake and rice,kore wa oishii keeki to gohan desu
+これはおいしいケーキとおちゃです,this is tasty cake and green tea,kore wa oishii keeki to ochya desu
+これはおいしいケーキとすしです,this is tasty cake and sushi,kore wa oishii keeki to sushi desu
+これはおいしいラーメンとピザです,this is tasty ramen and pizza,kore wa oishii raamen to piza desu
+これはおいしいラーメンとケーキです,this is tasty ramen and cake,kore wa oishii raamen to keeki desu
+これはおいしいラーメンとカリーです,this is tasty ramen and curry,kore wa oishii raamen to karii desu
+これはおいしいラーメンとみずです,this is tasty ramen and water,kore wa oishii raamen to mizu desu
+これはおいしいラーメンとごはんです,this is tasty ramen and rice,kore wa oishii raamen to gohan desu
+これはおいしいラーメンとおちゃです,this is tasty ramen and green tea,kore wa oishii raamen to ochya desu
+これはおいしいラーメンとすしです,this is tasty ramen and sushi,kore wa oishii raamen to sushi desu
+これはおいしいカリーピザです,this is tasty curry and pizza,kore wa oishii karii to piza desu
+これはおいしいカリーとケーキです,this is tasty curry and cake,kore wa oishii karii to keeki desu
+これはおいしいカリーとラーメンです,this is tasty curry and ramen,kore wa oishii karii to raamen desu
+これはおいしいカリーとみずです,this is tasty curry and water,kore wa oishii karii to mizu desu
+これはおいしいカリーとごはんです,this is tasty curry and rice,kore wa oishii karii to gohan desu
+これはおいしいカリーとおちゃです,this is tasty curry and green tea,kore wa oishii karii to ochya desu
+これはおいしいカリーとすしです,this is tasty curry and sushi,kore wa oishii karii to sushi desu
+これはおいしいみずとピザです,this is tasty water and pizza,kore wa oishii mizu to piza desu
+これはおいしいみずとケーキです,this is tasty water and cake,kore wa oishii mizu to keeki desu
+これはおいしいみずとラーメンです,this is tasty water and ramen,kore wa oishii mizu to raamen desu
+これはおいしいみずとカリーです,this is tasty water and curry,kore wa oishii mizu to karii desu
+これはおいしいみずとごはんです,this is tasty water and rice,kore wa oishii mizu to gohan desu
+これはおいしいみずとおちゃです,this is tasty water and green tea,kore wa oishii mizu to ochya desu
+これはおいしいみずとすしです,this is tasty water and sushi,kore wa oishii mizu to sushi desu
+これはおいしいごはんとピザです,this is tasty rice and pizza,kore wa oishii gohan to piza desu
+これはおいしいごはんとケーキです,this is tasty rice and cake,kore wa oishii gohan to keeki desu
+これはおいしいごはんとラーメンです,this is tasty rice and ramen,kore wa oishii gohan to raamen desu
+これはおいしいごはんとカリーです,this is tasty rice and curry,kore wa oishii gohan to karii desu
+これはおいしいごはんとみずです,this is tasty rice and water,kore wa oishii gohan to mizu desu
+これはおいしいごはんとおちゃです,this is tasty rice and green tea,kore wa oishii gohan to ochya desu
+これはおいしいごはんとすしです,this is tasty rice and sushi,kore wa oishii gohan to sushi desu
+これはおいしいおちゃとピザです,this is tasty green tea and pizza,kore wa oishii ochya to piza desu
+これはおいしいおちゃとケーキです,this is tasty green tea and cake,kore wa oishii ochya to keeki desu
+これはおいしいおちゃとラーメンです,this is tasty green tea and ramen,kore wa oishii ochya to raamen desu
+これはおいしいおちゃとカリーです,this is tasty green tea and curry,kore wa oishii ochya to karii desu
+これはおいしいおちゃとみずです,this is tasty green tea and water,kore wa oishii ochya to mizu desu
+これはおいしいおちゃとごはんです,this is tasty green tea and rice,kore wa oishii ochya to gohan desu
+これはおいしいおちゃとすしです,this is tasty green tea and sushi,kore wa oishii ochya to sushi desu
+これはおいしいすしとピザです,this is tasty sushi and pizza,kore wa oishii sushi to piza desu
+これはおいしいすしとケーキです,this is tasty sushi and cake,kore wa oishii sushi to keeki desu
+これはおいしいすしとらーめんです,this is tasty sushi and ramen,kore wa oishii sushi to raamen desu
+これはおいしいすしとカリーです,this is tasty sushi and curry,kore wa oishii sushi to karii desu
+これはおいしいすしとみずです,this is tasty sushi and water,kore wa oishii sushi to mizu desu
+これはおいしいすしとごはんです,this is tasty sushi and rice,kore wa oishii sushi to gohan desu
+これはおいしいすしとおちゃです,this is tasty sushi and green tea,kore wa oishii sushi to ochya desu
+それはおいしいピザとケーキです,that is tasty pizza and cake,sore wa oishii piza to keeki desu
+それはおいしいピザとラーメンです,that is tasty pizza and ramen,sore wa oishii piza to raamen desu
+それはおいしいピザとカリーです,that is tasty pizza and curry,sore wa oishii piza to karii desu
+それはおいしいピザとみずです,that is tasty pizza and water,sore wa oishii piza to mizu desu
+それはおいしいピザとごはんです,that is tasty pizza and rice,sore wa oishii piza to gohan desu
+それはおいしいピザとおちゃです,that is tasty pizza and green tea,sore wa oishii piza to ochya desu
+それはおいしいピザとすしです,that is tasty pizza and sushi,sore wa oishii piza to sushi desu
+それはおいしいケーキとピザです,that is tasty cake and pizza,sore wa oishii keeki to piza desu
+それはおいしいケーキとラーメンです,that is tasty cake and ramen,sore wa oishii keeki to raamen desu
+それはおいしいケーキとカリーです,that is tasty cake and curry,sore wa oishii keeki to karii desu
+それはおいしいケーキとみずです,that is tasty cake and water,sore wa oishii keeki to mizu desu
+それはおいしいケーキとごはんです,that is tasty cake and rice,sore wa oishii keeki to gohan desu
+それはおいしいケーキとおちゃです,that is tasty cake and green tea,sore wa oishii keeki to ochya desu
+それはおいしいケーキとすしです,that is tasty cake and sushi,sore wa oishii keeki to sushi desu
+それはラーメンとピザです,that is tasty ramen and pizza,sore wa oishii raamen to piza desu
+それはラーメンとケーキです,that is tasty ramen and cake,sore wa oishii raamen to keeki desu
+それはラーメンとカリーです,that is tasty ramen and curry,sore wa oishii raamen to karii desu
+それはラーメンとみずです,that is tasty ramen and water,sore wa oishii raamen to mizu desu
+それはラーメンとごはんです,that is tasty ramen and rice,sore wa oishii raamen to gohan desu
+それはラーメンとおちゃです,that is tasty ramen and green tea,sore wa oishii raamen to ochya desu
+それはラーメンとすしです,that is tasty ramen and sushi,sore wa oishii raamen to sushi desu
+それはおいしいカリーとピザです,that is tasty curry and pizza,sore wa oishii karii to piza desu
+それはおいしいカリーとケーキです,that is tasty curry and cake,sore wa oishii karii to keeki desu
+それはおいしいカリーとラーメンです,that is tasty curry and ramen,sore wa oishii karii to raamen desu
+それはおいしいカリーとみずです,that is tasty curry and water,sore wa oishii karii to mizu desu
+それはおいしいカリーとごはんです,that is tasty curry and rice,sore wa oishii karii to gohan desu
+それはおいしいカリーとおちゃです,that is tasty curry and green tea,sore wa oishii karii to ochya desu
+それはおいしいカリーとすしです,that is tasty curry and sushi,sore wa oishii karii to sushi desu
+それはおいしいみずとピザです,that is tasty water and pizza,sore wa oishii mizu to piza desu
+それはおいしいみずとケーキです,that is tasty water and cake,sore wa oishii mizu to keeki desu
+それはおいしいみずとラーメンです,that is tasty water and ramen,sore wa oishii mizu to raamen desu
+それはおいしいみずとカリーです,that is tasty water and curry,sore wa oishii mizu to karii desu
+それはおいしいみずとごはんです,that is tasty water and rice,sore wa oishii mizu to gohan desu
+それはおいしいみずとおちゃです,that is tasty water and green tea,sore wa oishii mizu to ochya desu
+それはおいしいみずとすしです,that is tasty water and sushi,sore wa oishii mizu to sushi desu
+それはおいしいごはんとピザです,that is tasty rice and pizza,sore wa oishii gohan to piza desu
+それはおいしいごはんとケーキです,that is tasty rice and cake,sore wa oishii gohan to keeki desu
+それはおいしいごはんとラーメンです,that is tasty rice and ramen,sore wa oishii gohan to raamen desu
+それはおいしいごはんとカリーです,that is tasty rice and curry,sore wa oishii gohan to karii desu
+それはおいしいごはんとみずです,that is tasty rice and water,sore wa oishii gohan to mizu desu
+それはおいしいごはんとおちゃです,that is tasty rice and green tea,sore wa oishii gohan to ochya desu
+それはおいしいごはんとすしです,that is tasty rice and sushi,sore wa oishii gohan to sushi desu
+それはおいしいおちゃとピザです,that is tasty green tea and pizza,sore wa oishii ochya to piza desu
+それはおいしいおちゃとケーキです,that is tasty green tea and cake,sore wa oishii ochya to keeki desu
+それはおいしいおちゃとラーメンです,that is tasty green tea and ramen,sore wa oishii ochya to raamen desu
+それはおいしいおちゃとカリーです,that is tasty green tea and curry,sore wa oishii ochya to karii desu
+それはおいしいおちゃとみずです,that is tasty green tea and water,sore wa oishii ochya to mizu desu
+それはおいしいおちゃとごはんです,that is tasty green tea and rice,sore wa oishii ochya to gohan desu
+それはおいしいおちゃとすしえす,that is tasty green tea and sushi,sore wa oishii ochya to sushi desu
+それはおいしいすしとピザです,that is tasty sushi and pizza,sore wa oishii sushi to piza desu
+それはおいしいすしとケーキです,that is tasty sushi and cake,sore wa oishii sushi to keeki desu
+それはおいしいすしとラーメンです,that is tasty sushi and ramen,sore wa oishii sushi to raamen desu
+それはおいしいすしとカリーです,that is tasty sushi and curry,sore wa oishii sushi to karii desu
+それはおいしいすしとみずです,that is tasty sushi and water,sore wa oishii sushi to mizu desu
+それはおいしいすしとごはんです,that is tasty sushi and rice,sore wa oishii sushi to gohan desu
+それはおいしいすしとおちゃです,that is tasty sushi and green tea,sore wa oishii sushi to ochya desu
+それはおいしいピザとケーキですか,is that tasty pizza and cake,sore wa oishii piza to keeki desu
+それはおいしいピザとラーメンですか,is that tasty pizza and ramen,sore wa oishii piza to raamen desu
+それはおいしいピザとカリーですか,is that tasty pizza and curry,sore wa oishii piza to karii desu
+それはおいしいピザとみずですか,is that tasty pizza and water,sore wa oishii piza to mizu desu
+それはおいしいピザとごはんですか,is that tasty pizza and rice,sore wa oishii piza to gohan desu
+それはおいしいピザとおちゃですか,is that tasty pizza and green tea,sore wa oishii piza to ochya desu
+それはおいしいピザとすしですか,is that tasty pizza and sushi,sore wa oishii piza to sushi desu
+それはおいしいケーキとピザですか,is that tasty cake and pizza,sore wa oishii keeki to piza desu
+それはおいしいケーキとラーメンですか,is that tasty cake and ramen,sore wa oishii keeki to raamen desu
+それはおいしいケーキとカリーですか,is that tasty cake and curry,sore wa oishii keeki to karii desu
+それはおいしいケーキとみずですか,is that tasty cake and water,sore wa oishii keeki to mizu desu
+それはおいしいケーキとごはんですか,is that tasty cake and rice,sore wa oishii keeki to gohan desu
+それはおいしいケーキとおちゃですか,is that tasty cake and green tea,sore wa oishii keeki to ochya desu
+それはおいしいケーキとすしですか,is that tasty cake and sushi,sore wa oishii keeki to sushi desu
+それはおいしいラーメンとピザですか,is that tasty ramen and pizza,sore wa oishii raamen to piza desu
+それはおいしいラーメンとケーキですか,is that tasty ramen and cake,sore wa oishii raamen to keeki desu
+それはおいしいラーメンとカリーですか,is that tasty ramen and curry,sore wa oishii raamen to karii desu
+それはおいしいラーメンとみずですか,is that tasty ramen and water,sore wa oishii raamen to mizu desu
+それはおいしいラーメンとごはんですか,is that tasty ramen and rice,sore wa oishii raamen to gohan desu
+それはおいしいラーメンとおちゃですか,is that tasty ramen and green tea,sore wa oishii raamen to ochya desu
+それはおいしいラーメンとすしですか,is that tasty ramen and sushi,sore wa oishii raamen to sushi desu
+それはおいしいカリーとピザですか,is that tasty curry and pizza,sore wa oishii karii to piza desu
+それはおいしいカリーとケーキですか,is that tasty curry and cake,sore wa oishii karii to keeki desu
+それはおいしいカリーとラーメンですか,is that tasty curry and ramen,sore wa oishii karii to raamen desu
+それはおいしいカリーとみずですか,is that tasty curry and water,sore wa oishii karii to mizu desu
+それはおいしいカリーとごはんですか,is that tasty curry and rice,sore wa oishii karii to gohan desu
+それはおいしいカリーとおちゃですか,is that tasty curry and green tea,sore wa oishii karii to ochya desu
+それはおいしいカリーとすしですか,is that tasty curry and sushi,sore wa oishii karii to sushi desu
+それはおいしいみずとピザですか,is that tasty water and pizza,sore wa oishii mizu to piza desu ka
+それはおいしいみずとケーキですか,is that tasty water and cake,sore wa oishii mizu to keeki desu ka
+それはおいしいみずとラーメンですか,is that tasty water and ramen,sore wa oishii mizu to raamen desu ka
+それはおいしいみずとカリーですか,is that tasty water and curry,sore wa oishii mizu to karii desu
+それはおいしいみずとごはんですか,is that tasty water and rice,sore wa oishii mizu to gohan desu ka
+それはおいしいみずとおちゃですか,is that tasty water and green tea,sore wa oishii mizu to ochya desu ka
+それはおいしいみずとすしですか,is that tasty water and sushi,sore wa oishii mizu to sushi desu ka
+それはおいしいごはんとピザですか,is that tasty rice and pizza,sore wa oishii gohan to piza desu ka
+それはおいしいごはんとケーキですか,is that tasty rice and cake,sore wa oishii gohan to keeki desu ka
+それはおいしいごはんとラーメンですか,is that tasty rice and ramen,sore wa oishii gohan to raamen desu ka
+それはおいしいごはんとカリーですか,is that tasty rice and curry,sore wa oishii gohan to karii desu ka
+それはおいしいごはんとみずですか,is that tasty rice and water,sore wa oishii gohan to mizu desu ka
+それはおいしいごはんとおちゃですか,is that tasty rice and green tea,sore wa oishii gohan to ochya desu ka
+それはおいしいごはんとすしですか,is that tasty rice and sushi,sore wa oishii gohan to sushi desu ka
+それはおいしいおちゃとピザですか,is that tasty green tea and pizza,sore wa oishii ochya to piza desu ka
+それはおいしいおちゃとケーキですか,is that tasty green tea and cake,sore wa oishii ochya to keeki desu ka
+それはおいしいおちゃとラーメンですか,is that tasty green tea and ramen,sore wa oishii ochya to raamen desu ka
+それはおいしいおちゃとカリーですか,is that tasty green tea and curry,sore wa oishii ochya to karii desu ka
+それはおいしいおちゃとみずですか,is that tasty green tea and water,sore wa oishii ochya to mizu desu ka
+それはおいしいおちゃとごはんですか,is that tasty green tea and rice,sore wa oishii ochya to gohan desu ka
+それはおいしいおちゃとすしですか,is that tasty green tea and sushi,sore wa oishii ochya to sushi desu ka
+それはおいしいすしとピザですか,is that tasty sushi and pizza,sore wa oishii sushi to piza desu ka
+それはおいしいすしとケーキですか,is that tasty sushi and cake,sore wa oishii sushi to keeki desu ka
+それはおいしいすしとラーメンですか,is that tasty sushi and ramen,sore wa oishii sushi to raamen desu ka
+それはおいしいすしとカリーですか,is that tasty sushi and curry,sore wa oishii sushi to karii desu ka
+それはおいしいすしとみずですか,is that tasty sushi and water,sore wa oishii sushi to mizu desu ka
+それはおいしいすしとごはんですか,is that tasty sushi and rice,sore wa oishii sushi to gohan desu ka
+それはおいしいすしとおちゃですか,is that tasty sushi and green tea,sore wa oishii sushi to ochya desu ka
+これはおいしいピザとケーキですか,is this tasty pizza and cake,kore wa oishii piza to keeki desu ka
+これはおいしいピザとらーめんですか,is this tasty pizza and ramen,kore wa oishii piza to raamen desu ka
+これはおいしいピザとカリーですか,is this tasty pizza and curry,kore wa oishii piza to karii desu ka
+これはおいしいピザとみずですか,is this tasty pizza and water,kore wa oishii piza to mizu desu ka
+これはおいしいピザとごはんですか,is this tasty pizza and rice,kore wa oishii piza to gohan desu ka
+これはおいしいピザとおちゃですか,is this tasty pizza and green tea,kore wa oishii piza to ochya desu ka
+これはおいしいピザとすしですか,is this tasty pizza and sushi,kore wa oishii piza to sushi desu ka
+これはおいしいケーキとピザですか,is this tasty cake and pizza,kore wa oishii keeki to piza desu ka
+これはおいしいケーキとラーメンですか,is this tasty cake and ramen,kore wa oishii keeki to raamen desu ka
+これはおいしいケーキとカリーですか,is this tasty cake and curry,kore wa oishii keeki to karii desu ka
+これはおいしいケーキとみずですか,is this tasty cake and water,kore wa oishii keeki to mizu desu ka
+これはおいしいケーキとごはんですか,is this tasty cake and rice,kore wa oishii keeki to gohan desu ka
+これはおいしいケーキとおちゃですか,is this tasty cake and green tea,kore wa oishii keeki to ochya desu ka
+これはおいしいケーキとすしですか,is this tasty cake and sushi,kore wa oishii keeki to sushi desu ka
+これはおいしいラーメンとピザですか,is this tasty ramen and pizza,kore wa oishii raamen to piza desu ka
+これはおいしいラーメンとケーキですか,is this tasty ramen and cake,kore wa oishii raamen to keeki desu ka
+これはおいしいラーメンとカリーですか,is this tasty ramen and curry,kore wa oishii raamen to karii desu ka
+これはおいしいラーメンとみずですか,is this tasty ramen and water,kore wa oishii raamen to mizu desu ka
+これはおいしいラーメンとごはんですか,is this tasty ramen and rice,kore wa oishii raamen to gohan desu ka
+これはおいしいラーメンとおちゃですか,is this tasty ramen and green tea,kore wa oishii raamen to ochya desu ka
+これはおいしいラーメンとすしですか,is this tasty ramen and sushi,kore wa oishii raamen to sushi desu ka
+これはおいしいカリーとピザですか,is this tasty curry and pizza,kore wa oishii karii to piza desu ka
+これはおいしいカリーとケーキですか,is this tasty curry and cake,kore wa oishii karii to keeki desu ka
+これはおいしいカリーとラーメンですか,is this tasty curry and ramen,kore wa oishii karii to raamen desu ka
+これはおいしいカリーとみずですか,is this tasty curry and water,kore wa oishii karii to mizu desu ka
+これはおいしいカリーとごはんですか,is this tasty curry and rice,kore wa oishii karii to gohan desu ka
+これはおいしいカリーとおちゃですか,is this tasty curry and green tea,kore wa oishii karii to ochya desu ka
+これはおいしいカリーとすしですか,is this tasty curry and sushi,kore wa oishii karii to sushi desu ka
+これはおいしいみずとピザですか,is this tasty water and pizza,kore wa oishii mizu to piza desu ka
+これはおいしいみずとケーキですか,is this tasty water and cake,kore wa oishii mizu to keeki desu ka
+これはおいしいみずとラーメンですか,is this tasty water and ramen,kore wa oishii mizu to raamen desu ka
+これはおいしいみずとカリーですか,is this tasty water and curry,kore wa oishii mizu to karii desu ka
+これはおいしいみずとごはんですか,is this tasty water and rice,kore wa oishii mizu to gohan desu ka
+これはおいしいみずとおちゃですか,is this tasty water and green tea,kore wa oishii mizu to ochya desu ka
+これはおいしいみずとすしですか,is this tasty water and sushi,kore wa oishii mizu to sushi desu ka
+これはおいしいごはんとピザですか,is this tasty rice and pizza,kore wa oishii gohan to piza desu ka
+これはおいしいごはんとケーキですか,is this tasty rice and cake,kore wa oishii gohan to keeki desu ka
+これはおいしいごはんとラーメンですか,is this tasty rice and ramen,kore wa oishii gohan to raamen desu ka
+これはおいしいごはんとカリーですか,is this tasty rice and curry,kore wa oishii gohan to karii desu ka
+これはおいしいごはんとみずですか,is this tasty rice and water,kore wa oishii gohan to mizu desu ka
+これはおいしいごはんとおちゃですか,is this tasty rice and green tea,kore wa oishii gohan to ochya desu ka
+これはおいしいごはんとすしですか,is this tasty rice and sushi,kore wa oishii gohan to sushi desu ka
+これはおいしいおちゃとピザですか,is this tasty green tea and pizza,kore wa oishii ochya to piza desu ka
+これはおいしいおちゃとケーキですか,is this tasty green tea and cake,kore wa oishii ochya to keeki desu ka
+これはおいしいおちゃとラーメンですか,is this tasty green tea and ramen,kore wa oishii ochya to raamen desu ka
+これはおいしいおちゃとカリーですか,is this tasty green tea and curry,kore wa oishii ochya to karii desu ka
+これはおいしいおちゃとみずですか,is this tasty green tea and water,kore wa oishii ochya to mizu desu ka
+これはおいしいおちゃとごはんですか,is this tasty green tea and rice,kore wa oishii ochya to gohan desu ka
+これはおいしいおちゃとすしですか,is this tasty green tea and sushi,kore wa oishii ochya to sushi desu ka
+これはおいしいすしとピザですか,is this tasty sushi and pizza,kore wa oishii sushi to piza desu ka
+これはおいしいすしとケーキですか,is this tasty sushi and cake,kore wa oishii sushi to keeki desu ka
+これはおいしいすしとラーメンですか,is this tasty sushi and ramen,kore wa oishii sushi to raamen desu ka
+これはおいしいすしとカリーですか,is this tasty sushi and curry,kore wa oishii sushi to karii desu ka
+これはおいしいすしとみずですか,is this tasty sushi and water,kore wa oishii sushi to mizu desu ka
+これはおいしいすしとごはんですか,is this tasty sushi and rice,kore wa oishii sushi to gohan desu ka
+これはおいしいすしとおちゃですか,is this tasty sushi and green tea,kore wa oishii sushi to ochya desu ka
