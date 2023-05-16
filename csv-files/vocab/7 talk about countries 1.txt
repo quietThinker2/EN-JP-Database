@@ -1,0 +1,13 @@
+アメリカ,america,amerika
+アメリカじん,american,amerika jin
+イギリス,britain,igirisu
+イギリスじん,british,igirisu jin
+ブラｼﾞル,brazil,burajiru
+ブラｼﾞルじん,brazilian,burajiru jin
+カナダ,canada,kanada
+カナダじん,canadian,kanada jin
+にほん,japan,nihon
+にほんじん,japanese,nihon jin
+じん,nationality,jin
+おおきい,big,ookii
+ちいさい,small,chiisai

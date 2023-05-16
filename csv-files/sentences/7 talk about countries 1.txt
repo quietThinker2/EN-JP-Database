@@ -1,0 +1,273 @@
+アメリカとにほん,america and japan,amerika to nihon
+アメリカとカナダ,america and canada,amerika to kanada
+アメリカとイギリス,america and britian,amerika to igirisu
+アメリカとブラジル,america and brazil,amerika to burajiru
+にほんとアメリカ,japan and america,nihon to amerika
+にほんとカナダ,japan and canada,nihon to kanada
+にほんとイギリス,japan and britian,nihon to igirisu
+にほんとブラジル,japan and brazil,nihon to burajiru
+カナダとアメリカ,canada and america,kanada to amerika
+カナダとにほん,canada and japan,kanada to nihon
+カナダとイギリス,canada and britian,kanada to igirisu
+カナダとブラジル,canada and brazil,kanada to burajiru
+イギリスとアメリカ,britian and america,igirisu to amerika
+イギリスとにほん,britian and japan,igirisu to nihon
+イギリスとカナダ,britian and canada,igirisu to kanada
+イギリスとブラジル,britian and brazil,igirisu to burajiru
+ブラジルとアメリカ,brazil and america,burajiru to amerika
+ブラジルとにほん,brazil and japan,burajiru to nihon
+ブラジルとカナダ,brazil and canada,burajiru to kanada
+ブラジルとイギリス,brazil and britian,burajiru to igirisu
+アメリカとにほんです,it is america and japan,amerika to nihon desu
+アメリカとカナダです,it is america and canada,amerika to kanada desu
+アメリカとイギリスです,it is america and britian,amerika to igirisu desu
+アメリカとブラジルです,it is america and brazil,amerika to burajiru desu
+にほんとアメリカです,it is japan and america,nihon to amerika desu
+にほんとカナダです,it is japan and canada,nihon to kanada desu
+にほんとイギリスです,it is japan and britian,nihon to igirisu desu
+にほんとブラジルです,it is japan and brazil,nihon to burajiru desu
+カナダとアメリカです,it is canada and america,kanada to amerika desu
+カナダとにほんです,it is canada and japan,kanada to nihon desu
+カナダとイギリスです,it is canada and britian,kanada to igirisu desu
+カナダとブラジルです,it is canada and brazil,kanada to burajiru desu
+イギリスとアメリカです,it is britian and america,igirisu to amerika desu
+イギリスとにほんです,it is britian and japan,igirisu to nihon desu
+イギリスとカナダです,it is britian and canada,igirisu to kanada desu
+イギリスとブラジルです,it is britian and brazil,igirisu to burajiru desu
+ブラジルとアメリカです,it is brazil and america,burajiru to amerika desu
+ブラジルとにほんです,it is brazil and japan,burajiru to nihon desu
+ブラジルとカナダです,it is brazil and canada,burajiru to kanada desu
+ブラジルとイギリスです,it is brazil and britian,burajiru to igirisu desu
+アメリカとにほんですか,is it america and japan,amerika to nihon desu ka
+アメリカとカナダですか,is it america and canada,amerika to kanada desu ka
+アメリカとイギリスですか,is it america and britian,amerika to igirisu desu ka
+アメリカとブラジルですか,is it america and brazil,amerika to burajiru desu ka
+にほんとアメリカですか,is it japan and america,nihon to amerika desu ka
+にほんとカナダですか,is it japan and canada,nihon to kanada desu ka
+にほんとイギリスですか,is it japan and britian,nihon to igirisu desu ka
+にほんとブラジルですか,is it japan and brazil,nihon to burajiru desu ka
+カナダとアメリカですか,is it canada and america,kanada to amerika desu ka
+カナダとにほんですか,is it canada and japan,kanada to nihon desu ka
+カナダとイギリスですか,is it canada and britian,kanada to igirisu desu ka
+カナダとブラジルですか,is it canada and brazil,kanada to burajiru desu ka
+イギリスとアメリカですか,is it britian and america,igirisu to amerika desu ka
+イギリスとにほんですか,is it britian and japan,igirisu to nihon desu ka
+イギリスとカナダですか,is it britian and canada,igirisu to kanada desu ka
+イギリスとブラジルですか,is it britian and brazil,igirisu to burajiru desu ka
+ブラジルとアメリカですか,is it brazil and america,burajiru to amerika desu ka
+ブラジルとにほんですか,is it brazil and japan,burajiru to nihon desu ka
+ブラジルとカナダですか,is it brazil and canada,burajiru to kanada desu ka
+ブラジルとイギリスですか,is it brazil and britian,burajiru to igirisu desu ka
+アメリカです,it is america,amerika desu
+にほんです,it is japan,nihon desu
+カナダです,it is canada,kanada desu
+イギリスです,it is britian,igirisu desu
+ブラジルです,it is brazil,burajiru desu
+アメリカですか,is it america,amerika desu ka
+にほんですか,is it japan,nihon desu ka
+カナダですか,is it canada,kanada desu ka
+イギリスですか,is it britian,igirisu desu ka
+ブラジルですか,is it brazil,burajiru desu ka
+はいアメリカです,yes it is america,hai amerika desu
+はいにほんです,yes it is japan,hai nihon desu
+はいカナダです,yes it is canada,hai kanada desu
+はいイギリスです,yes it is britian,hai igirisu desu
+はいブラジルです,yes it is brazil,hai burajiru desu
+いいえアメリカです,no it is america,iie amerika desu
+いいえにほんです,no it is japan,iie nihon desu
+いいえカナダです,no it is canada,iie kanada desu
+いいえイギリスです,no it is britian,iie igirisu desu
+いいえブラジルです,no it is brazil,iie burajiru desu
+おおきいです,it is big,ookiii desu
+おおきいですか,Is it big,ookiii desu ka
+ちいさいです,it is small,chiisai desu
+ちいさいですか,is it small,chiisai desu ka
+はいちいさいです,yes it is small,hai chiisai desu
+いいえちいさいです,no it is small,iie chiisai desu
+はいおおきいです,yes it is big,hai ookii desu
+いいえちいさいです,no it is small,iie chiisai desu
+アメリカはおおきいです,america is big,amerika wa ookii desu
+アメリカはちいさいです,america is small,amerika wa chiisai desu
+にほんはおおきいです,japan is big,nihon wa ookii desu
+にほんはちいさいです,japan is small,nihon wa chiisai desu
+カナダはおおきいです,canada is big,kanada wa ookii desu
+カナダはちいさいです,canada is small,kanada wa chiisai desu
+イギリスはおおきいです,britian is big,igirisu wa ookii desu
+イギリスはちいさいです,britian is small,igirisu wa chiisai desu
+ブラジルはおおきいです,brazil is big,burajiru wa ookii desu
+ブラジルはちいさいです,brazil is small,burajiru wa chiisai desu
+アメリカはおおきいですか,is america big,amerika wa ookii desu ka
+アメリカはちいさいですか,is america small,amerika wa chiisai desu ka
+にほんはおおきいですか,is japan big,nihon wa ookii desu ka
+にほんはちいさいですか,is japan small,nihon wa chiisai desu ka
+カナダはおおきいですか,is canada big,kanada wa ookii desu ka
+カナダはちいさいですか,is canada small,kanada wa chiisai desu ka
+イギリスはおおきいですか,is britian big,igirisu wa ookii desu ka
+イギリスはちいさいですか,is britian small,igirisu wa chiisai desu ka
+ブラジルはおおきいですか,is brazil big,burajiru wa ookii desu ka
+ブラジルはちいさいですか,is brazil small,burajiru wa chiisai desu ka
+これはアメリカです,this is america,kore wa amerika desu
+これはにほんです,this is japan,kore wa nihon desu
+これはカナダです,this is canada,kore wa kanada desu
+これはイギリスです,this is britian,kore wa igirisu desu
+これはブラジルです,this is brazil,kore wa burajiru desu
+これはアメリカですか,is this america,kore wa amerika desu ka
+これはにほんですか,is this japan,kore wa nihon desu ka
+これはカナダですか,is this canada,kore wa kanada desu ka
+これはイギリスですか,is this britian,kore wa igirisu desu ka
+これはブラジルですか,is this brazil,kore wa burajiru desu ka
+それはアメリカですか,is that america,sore wa amerika desu ka
+それはにほんですか,is that japan,sore wa nihon desu ka
+それはカナダですか,is that canada,sore wa kanada desu ka
+それはイギリスですか,is that britian,sore wa igirisu desu ka
+それはブラジルですか,is that brazil,sore wa burajiru desu ka
+それはアメリカです,that is america,sore wa amerika desu
+それはにほんです,that is japan,sore wa nihon desu
+それはカナダです,that is canada,sore wa kanada desu
+それはイギリスです,that is britian,sore wa igirisu desu
+それはブラジルです,that is brazil,sore wa burajiru desu
+アメリカじんとにほんじん,american and japanese,amerika jin to nihon jin
+アメリカじんとカナダじん,american and canadian,amerika jin to kanada jin
+アメリカじんとイギリスじん,american and british,amerika jin to igirisu jin
+アメリカじんとブラジルじん,american and brazilian,amerika jin to burajiru jin
+にほんじんとアメリカじん,japanese and american,nihon jin to amerika jin
+にほんじんとカナダじん,japanese and canadian,nihon jin to kanada jin
+にほんじんとイギリスじん,japanese and british,nihon jin to igirisu jin
+にほんじんとブラジルじん,japanese and brazilian,nihon jin to burajiru jin
+カナダじんとアメリカじん,canadian and american,kanada jin to amerika jin
+カナダじんとにほんじん,canadian and japanese,kanada jin to nihon jin
+カナダじんとイギリスじん,canadian and british,kanada jin to igirisu jin
+カナダじんとブラジルじん,canadian and brazilian,kanada jin to burajiru jin
+イギリスじんとアメリカじん,british and american,igirisu jin to amerika jin
+イギリスじんとにほんじん,british and japanese,igirisu jin to nihon jin
+イギリスじんとカナダじん,british and canadian,igirisu jin to kanada jin
+イギリスじんとブラジルじん,british and brazilian,igirisu jin to burajiru jin
+ブラジルじんとアメリカじん,brazilian and american,burajiru jin to amerika jin
+ブラジルじんとにほんじん,brazilian and japanese,burajiru jin to nihon jin
+ブラジルじんとカナダじん,brazilian and canadian,burajiru jin to kanada jin
+ブラジルじんとイギリスじん,brazilian and british,burajiru jin to igirisu jin
+アメリカじんとにほんじんです,it is american and japanese,amerika jin to nihon jin desu
+アメリカじんとカナダじんです,it is american and canadian,amerika jin to kanada jin desu
+アメリカじんとイギリスじんです,it is american and british,amerika jin to igirisu jin desu
+アメリカじんとブラジルじんです,it is american and brazilian,amerika jin to burajiru jin desu
+にほんじんとアメリカじんです,it is japanese and american,nihon jin to amerika jin desu
+にほんじんとカナダじんです,it is japanese and canadian,nihon jin to kanada jin desu
+にほんじんとイギリスじんです,it is japanese and british,nihon jin to igirisu jin desu
+にほんじんとブラジルじんです,it is japanese and brazilian,nihon jin to burajiru jin desu
+カナダじんとアメリカじんです,it is canadian and american,kanada jin to amerika jin desu
+カナダじんとにほんじんです,it is canadian and japanese,kanada jin to nihon jin desu
+カナダじんとイギリスじんです,it is canadian and british,kanada jin to igirisu jin desu
+カナダじんとブラジルじんです,it is canadian and brazilian,kanada jin to burajiru jin desu
+イギリスじんとアメリカじんです,it is british and american,igirisu jin to amerika jin desu
+イギリスじんとにほんじんです,it is british and japanese,igirisu jin to nihon jin desu
+イギリスじんとカナダじんです,it is british and canadian,igirisu jin to kanada jin desu
+イギリスじんとブラジルじんです,it is british and brazilian,igirisu jin to burajiru jin desu
+ブラジルじんとアメリカじんです,it is brazilian and american,burajiru jin to amerika jin desu
+ブラジルじんとにほんじんです,it is brazilian and japanese,burajiru jin to nihon jin desu
+ブラジルじんとカナダじんです,it is brazilian and canadian,burajiru jin to kanada jin desu
+ブラジルじんとイギリスじんです,it is brazilian and british,burajiru jin to igirisu jin desu
+アメリカじんとにほんじんですか,is it american and japanese,amerika jin to nihon jin desu ka
+アメリカじんとカナダじんですか,is it american and canada,amerika jin to kanada jin desu ka
+アメリカじんとイギリスじんですか,is it american and british,amerika jin to igirisu jin desu ka
+アメリカじんとブラジルじんですか,is it american and brazilian,amerika jin to burajiru jin desu ka
+にほんじんとアメリカじんですか,is it japanese and american,nihon jin to amerika jin desu ka
+にほんじんとカナダじんですか,is it japanese and canada,nihon jin to kanada jin desu ka
+にほんじんとイギリスじんですか,is it japanese and british,nihon jin to igirisu jin desu ka
+にほんじんとブラジルじんですか,is it japanese and brazilian,nihon jin to burajiru jin desu ka
+カナダじんとアメリカじんですか,is it canada and american,kanada jin to amerika jin desu ka
+カナダじんとにほんじんですか,is it canada and japanese,kanada jin to nihon jin desu ka
+カナダじんとイギリスじんですか,is it canada and british,kanada jin to igirisu jin desu ka
+カナダじんとブラジルじんですか,is it canada and brazilian,kanada jin to burajiru jin desu ka
+イギリスじんとアメリカじんですか,is it british and american,igirisu jin to amerika jin desu ka
+イギリスじんとにほんじんですか,is it british and japanese,igirisu jin to nihon jin desu ka
+イギリスじんとカナダじんですか,is it british and canada,igirisu jin to kanada jin desu ka
+イギリスじんとブラジルじんですか,is it british and brazilian,igirisu jin to burajiru jin desu ka
+ブラジルじんとアメリカじんですか,is it brazilian and american,burajiru jin to amerika jin desu ka
+ブラジルじんとにほんじんですか,is it brazilian and japanese,burajiru jin to nihon jin desu ka
+ブラジルじんとカナダじんですか,is it brazilian and canada,burajiru jin to kanada jin desu ka
+ブラジルじんとイギリスじんですか,is it brazilian and british,burajiru jin to igirisu jin desu ka
+アメリカじんです,it is american,amerika jin desu
+にほんじんです,it is japanese,nihon jin desu
+カナダじんです,it is canada,kanada jin desu
+イギリスじんです,it is british,igirisu jin desu
+ブラジルじんです,it is brazilian,burajiru jin desu
+アメリカじんですか,is it american,amerika jin desu ka
+にほんじんですか,is it japanese,nihon jin desu ka
+カナダじんですか,is it canada,kanada jin desu ka
+イギリスじんですか,is it british,igirisu jin desu ka
+ブラジルじんですか,is it brazilian,burajiru jin desu ka
+はいアメリカじんです,yes it is american,hai amerika jin desu
+はいにほんじんです,yes it is japanese,hai nihon jin desu
+はいカナダじんです,yes it is canada,hai kanada jin desu
+はいイギリスじんです,yes it is british,hai igirisu jin desu
+はいブラジルじんです,yes it is brazilian,hai burajiru jin desu
+いいえアメリカじんです,no it is american,iie amerika jin desu
+いいえにほんじんです,no it is japanese,iie nihon jin desu
+いいえカナダじんです,no it is canada,iie kanada jin desu
+いいえイギリスじんです,no it is british,iie igirisu jin desu
+いいえブラジルじんです,no it is brazilian,iie burajiru jin desu
+いいえアメリカじんですか,no is it american,iie amerika jin desu ka
+いいえにほんじんですか,no is it japanese,iie nihon jin desu ka
+いいえカナダじんですか,no is it canada,iie kanada jin desu ka
+いいえイギリスじんですか,no is it british,iie igirisu jin desu ka
+いいえブラジルじんですか,no is it brazilian,iie burajiru jin desu ka
+これはアメリカじんです,this is american,kore wa amerika jin desu
+これはにほんじんです,this is japanese,kore wa nihon jin desu
+これはカナダじんです,this is canada,kore wa kanada jin desu
+これはイギリスじんです,this is british,kore wa igirisu jin desu
+これはブラジルじんです,this is brazilian,kore wa burajiru jin desu
+それはアメリカじんです,that is american,sore wa amerika jin desu
+それはにほんじんです,that is japanese,sore wa nihon jin desu
+それはカナダじんです,that is canada,sore wa kanada jin desu
+それはイギリスじんです,that is british,sore wa igirisu jin desu
+それはブラジルじんです,that is brazilian,sore wa burajiru jin desu
+これはアメリカじんですか,is this american,kore wa amerika jin desu ka
+これはにほんじんですか,is this japanese,kore wa nihon jin desu ka
+これはカナダじんですか,is this canada,kore wa kanada jin desu ka
+これはイギリスじんですか,is this british,kore wa igirisu jin desu ka
+これはブラジルじんですか,is this brazilian,kore wa burajiru jin desu ka
+それはアメリカじんですか,is that american,sore wa amerika jin desu ka
+それはにほんじんですか,is that japanese,sore wa nihon jin desu ka
+それはカナダじんですか,is that canada,sore wa kanada jin desu ka
+それはイギリスじんですか,is that british,sore wa igirisu jin desu ka
+それはブラジルじんですか,is that brazilian,sore wa burajiru jin desu ka
+なおみさんはアメリカじんです,naomi is american,naomi san wa amerika jin desu
+なおみさんはにほんじんです,naomi is japanese,naomi san wa nihon jin desu
+なおみさんはカナダじんです,naomi is canada,naomi san wa kanada jin desu
+なおみさんはイギリスじんです,naomi is british,naomi san wa igirisu jin desu
+なおみさんはブラジルじんです,naomi is brazilian,naomi san wa burajiru jin desu
+けんさんはアメリカじんです,ken is american,ken san wa amerika jin desu
+けんさんはにほんじんです,ken is japanese,ken san wa nihon jin desu
+けんさんはカナダじんです,ken is canada,ken san wa kanada jin desu
+けんさんはイギリスじんです,ken is british,ken san wa igirisu jin desu
+けんさんはブラジルじんです,ken is brazilian,ken san wa burajiru jin desu
+はなさんはアメリカじんです,hana is american,hana wa san amerika jin desu
+はなさんはにほんじんです,hana is japanese,hana san wa nihon jin desu
+はなさんはカナダじんです,hana is canada,hana san wa kanada jin desu
+はなさんはイギリスじんです,hana is british,hana san wa igirisu jin desu
+はなさんはブラジルじんです,hana is brazilian,hana san wa burajiru jin desu
+なおみさんはアメリカじんですか,is naomi american,naomi san wa amerika jin desu ka
+なおみさんはにほんじんですか,is naomi japanese,naomi san wa nihon jin desu ka
+なおみさんはカナダじんですか,is naomi canada,naomi san wa kanada jin desu ka
+なおみさんはイギリスじんですか,is naomi british,naomi san wa igirisu jin desu ka
+なおみさんはブラジルじんですか,is naomi brazilian,naomi san wa burajiru jin desu ka
+けんさんはアメリカじんですか,is ken american,ken san wa amerika jin desu ka
+けんさんはにほんじんですか,is ken japanese,ken san wa nihon jin desu ka
+けんさんはカナダじんですか,is ken canada,ken san wa kanada jin desu ka
+けんさんはイギリスじんですか,is ken british,ken san wa igirisu jin desu ka
+けんさんはブラジルじんですか,is ken brazilian,ken san wa burajiru jin desu ka
+はなさんはアメリカじんですか,is hana american,hana san wa amerika jin desu ka
+はなさんはにほんじんですか,is hana japanese,hana san wa nihon jin desu ka
+はなさんはカナダじんですか,is hana canada,hana san wa kanada jin desu ka
+はなさんはイギリスじんですか,is hana british,hana san wa igirisu jin desu ka
+はなさんはブラジルじんですか,is hana brazilian,hana san wa burajiru jin desu ka
+いいえアメリカじんです,no they are american,iie amerika jin desu
+いいえにほんじんです,no they are japanese,iie nihon jin desu
+いいえカナダじんです,no they are canadian,iie kanada jin desu
+いいえイギリスじんです,no they are british,iie igirisu jin desu
+いいえブラジルじんです,no they are brazilian,iie burajiru jin desu
+はいアメリカじんです,yes they are american,hai amerika jin desu
+はいにほんじんです,yes they are japanese,hai nihon jin desu
+はいカナダじんです,yes they are canadian,hai kanada jin desu
+はいイギリスじんです,yes they are british,hai igirisu jin desu
+はいブラジルじんです,yes they are brazilian,hai burajiru jin desu
