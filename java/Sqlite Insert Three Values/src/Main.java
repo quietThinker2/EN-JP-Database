@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String fileName = "/home/rw/Zev/SQLite/EN-JP-Database/csv-files/sentences/7 talk about countries 1.txt";
+        String fileName = "/home/rw/Zev/SQLite/EN-JP-Database/csv-files/sentences/8 ask for directions 1.txt";
         String url = "jdbc:sqlite:/home/rw/Zev/SQLite/EN-JP-Database/EN-JB-DB.db";
         String tableName = "DATA";
 
@@ -22,8 +22,8 @@ public class Main {
                 pstmt.setString(1, values[0]);
                 pstmt.setString(2, values[1]);
                 pstmt.setString(3, values[2]);
-                pstmt.setString(4, "Talk About Countries 1");
-                pstmt.setInt(5, 7);
+                pstmt.setString(4, "Ask for Directions 1");
+                pstmt.setInt(5, 8);
                 pstmt.setString(6, "S");
                 pstmt.executeUpdate();
             }

@@ -1,0 +1,9 @@
+ホテル,hotel,hoteru
+どこ,where,doko
+えき,train station,eki
+バステイ,bus stop,busutei
+だいがく,university,daigaku
+コンビニ,convenience store,conbini
+デパート,department store,depaato
+そこ,there,soko
+ここ,here,koko

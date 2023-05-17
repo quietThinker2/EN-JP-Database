@@ -271,3 +271,13 @@
 はいカナダじんです,yes they are canadian,hai kanada jin desu
 はいイギリスじんです,yes they are british,hai igirisu jin desu
 はいブラジルじんです,yes they are brazilian,hai burajiru jin desu
+アメリカじんですか,are they american,amerika jin desu ka
+イギリスじんですか,are they british,igirisu jin desu ka
+ブラｼﾞルじんですか,are they brazilian,burajiru jin desu ka
+カナダじんですか,are they canadian,kanada jin desu ka
+にほんじんですか,are they japanese,nihon jin desu ka
+アメリカじんです,they are american,amerika jin desu
+イギリスじんです,they are british,igirisu jin desu
+ブラｼﾞルじんです,they are brazilian,burajiru jin desu
+カナダじんです,they are canadian,kanada jin desu
+にほんじんです,they are japanese,nihon jin desu

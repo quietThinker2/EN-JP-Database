@@ -3,7 +3,7 @@ package com.example.combogui;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
-public class HelloController {
+public class MainController {
     @FXML
     public TextArea japaneseSentBox,englishSentBox, romajiSentBox, japaneseBox1, englishBox1, romajiBox1,japaneseBox2, englishBox2,romajiBox2,outputBox;
 

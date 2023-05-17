@@ -1,0 +1,44 @@
+そこ,ここ
+there,here
+soko,koko
+
+どこ
+where
+doko
+
+それ,これ
+that,this
+sore,kore
+
+すし,ごはん,みず,おちゃ,ラーメン,カリー,ピザ,ケーキ
+sushi,rice,water,green tea,ramen,curry,pizza,cake
+sushi,gohan,mizu,ochya,raamen,karii,piza,keeki
+
+やさしい,かっこいい
+nice,cool
+yasashii,kakoii
+
+はな,けん,なおみ
+hana,ken,naomi
+hana,ken,naomi
+
+せんせい,がくせい,べんごし,ひと,いしゃ
+teacher,student,lawyer,person,doctor
+seinsei,gakusei,bengoshi,hit,ishya
+
+アメリカ,にほん,イギリス,ブラジル,カナダ
+america,japan,britian,brazil,canada
+amerika,nihon,igirisu,burajiru,kanada
+
+アメリカじん,にほんじん,イギリスじん,ブラジルじん,カナダじん
+american,japanese,british,brazilian,canadian
+amerika jin,nihon jin,igirisu jin,burajiru jin,kanada jin
+
+ホテル,えき,ブスてい,だいがく,コンビニ,デパート
+hotel,train station,bus stop,university,convenience store,department store
+hoteru,eki,busutei,daigaku,conbini,depaato
+
+
+
+は   です  か
+はい　いいえ　と

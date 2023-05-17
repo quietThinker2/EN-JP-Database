@@ -1,0 +1,201 @@
+ホテルとえき,a hotel and a train station,hoteru to eki
+ホテルとバステイ,a hotel and a bus stop,hoteru to busutei
+ホテルとだいがく,a hotel and a university,hoteru to daigaku
+ホテルとコンビニ,a hotel and a convenience store,hoteru to conbini
+ホテルとデパート,a hotel and a department store,hoteru to depaato
+えきとホテル,a train station and a hotel,eki to hoteru
+えきとバステイ,a train station and a bus stop,eki to busutei
+えきとだいがく,a train station and a university,eki to daigaku
+えきとコンビニ,a train station and a convenience store,eki to conbini
+えきとデパート,a train station and a department store,eki to depaato
+バステイとホテル,a bus stop and a hotel,busutei to hoteru
+バステイとえき,a bus stop and a train station,busutei to eki
+バステイとだいがく,a bus stop and a university,busutei to daigaku
+バステイとコンビニ,a bus stop and a convenience store,busutei to conbini
+バステイとデパート,a bus stop and a department store,busutei to depaato
+だいがくとホテル,a university and a hotel,daigaku to hoteru
+だいがくとえき,a university and a train station,daigaku to eki
+だいがくとバステイ,a university and a bus stop,daigaku to busutei
+だいがくとコンビニ,a university and a convenience store,daigaku to conbini
+だいがくとデパート,a university and a department store,daigaku to depaato
+コンビニとホテル,a convenience store and a hotel,conbini to hoteru
+コンビニとえき,a convenience store and a train station,conbini to eki
+コンビニとバステイ,a convenience store and a bus stop,conbini to busutei
+コンビニとだいがく,a convenience store and a university,conbini to daigaku
+コンビニとデパート,a convenience store and a department store,conbini to depaato
+デパートとホテル,a department store and a hotel,depaato to hoteru
+デパートとえき,a department store and a train station,depaato to eki
+デパートとバステイ,a department store and a bus stop,depaato to busutei
+デパートとだいがく,a department store and a university,depaato to daigaku
+デパートとコンビニ,a department store and a convenience store,depaato to conbini
+ホテルです,it is a hotel,hoteru desu
+えきです,it is a train station,eki desu
+バステイです,it is a bus stop,busutei desu
+だいがくです,it is a university,daigaku desu
+コンビニです,it is a convenience store,conbini desu
+デパートです,it is a department store,depaato desu
+はいホテルです,yes it is a hotel,hai hoteru desu
+はいえきです,yes it is a train station,hai eki desu
+はいバステイです,yes it is a bus stop,hai busutei desu
+はいだいがくです,yes it is a university,hai daigaku desu
+はいコンビニです,yes it is a convenience store,hai conbini desu
+はいデパートです,yes it is a department store,hai depaato desu
+いいえホテルです,no it is a hotel,iie hoteru desu
+いいええきです,no it is a train station,iie eki desu
+いいえバステイです,no it is a bus stop,iie busutei desu
+いいえだいがくです,no it is a university,iie daigaku desu
+いいえコンビニです,no it is a convenience store,iie conbini desu
+いいえデパートです,no it is a department store,iie depaato desu
+ホテルですか,is it a hotel,hoteru desu ka
+えきですか,is it a train station,eki desu ka
+バステイですか,is it a bus stop,busutei desu ka
+だいがくですか,is it a university,daigaku desu ka
+コンビニですか,is it a convenience store,conbini desu ka
+デパートですか,is it a department store,depaato desu ka
+それはホテルです,that is a hotel,sore wa hoteru desu
+それはえきです,that is a train station,sore wa eki desu
+それはバステイです,that is a bus stop,sore wa busutei desu
+それはだいがくです,that is a university,sore wa daigaku desu
+それはコンビニです,that is a convenience store,sore wa conbini desu
+それはデパートです,that is a department store,sore wa depaato desu
+これはホテルです,this is a hotel,kore wa hoteru desu
+これはえきです,this is a train station,kore wa eki desu
+これはバステイです,this is a bus stop,kore wa busutei desu
+これはだいがくです,this is a university,kore wa daigaku desu
+これはコンビニです,this is a convenience store,kore wa conbini desu
+これはデパートです,this is a department store,kore wa depaato desu
+はいこれはホテルです,yes this is a hotel,hai kore wa hoteru desu
+はいこれはえきです,yes this is a train station,hai kore wa eki desu
+はいこれはバステイです,yes this is a bus stop,hai kore wa busutei desu
+はいこれはだいがくです,yes this is a university,hai kore wa daigaku desu
+はいこれはコンビニです,yes this is a convenience store,hai kore wa conbini desu
+はいこれはデパートです,yes this is a department store,hai kore wa depaato desu
+いいえこれはホテルです,no this is a hotel,iie kore wa hoteru desu
+いいえこれはえきです,no this is a train station,iie kore wa eki desu
+いいえこれはバステイです,no this is a bus stop,iie kore wa busutei desu
+いいえこれはだいがくです,no this is a university,iie kore wa daigaku desu
+いいえこれはコンビニです,no this is a convenience store,iie kore wa conbini desu
+いいえこれはデパートです,no this is a department store,iie kore wa depaato desu
+これはホテルですか,is this a hotel,kore wa hoteru desu ka
+これはえきですか,is this a train station,kore wa eki desu ka
+これはバステイですか,is this a bus stop,kore wa busutei desu ka
+これはだいがくですか,is this a university,kore wa daigaku desu ka
+これはコンビニですか,is this a convenience store,kore wa conbini desu ka
+これはデパートですか,is this a department store,kore wa depaato desu ka
+はいそれはホテルです,yes that is a hotel,hai sore wa hoteru desu
+はいそれはえきです,yes that is a train station,hai sore wa eki desu
+はいそれはバステイです,yes that is a bus stop,hai sore wa busutei desu
+はいそれはだいがくです,yes that is a university,hai sore wa daigaku desu
+はいそれはコンビニです,yes that is a convenience store,hai sore wa conbini desu
+はいそれはデパートです,yes that is a department store,hai sore wa depaato desu
+いいえそれはホテルです,no that is a hotel,iie sore wa hoteru desu
+いいえそれはえきです,no that is a train station,iie sore wa eki desu
+いいえそれはバステイです,no that is a bus stop,iie sore wa busutei desu
+いいえそれはだいがくです,no that is a university,iie sore wa daigaku desu
+いいえそれはコンビニです,no that is a convenience store,iie sore wa conbini desu
+いいえそれはデパートです,no that is a department store,iie sore wa depaato desu
+それはホテルですか,is that a hotel,sore wa hoteru desu ka
+それはえきですか,is that a train station,sore wa eki desu ka
+それはバステイですか,is that a bus stop,sore wa busutei desu ka
+それはだいがくですか,is that a university,sore wa daigaku desu ka
+それはコンビニですか,is that a convenience store,sore wa conbini desu ka
+それはデパートですか,is that a department store,sore wa depaato desu ka
+そこはホテルです,there is hotel,soko wa hoteru desu
+そこはえきです,there is train station,soko wa eki desu
+そこはバステイです,there is bus stop,soko wa busutei desu
+そこはだいがくです,there is university,soko wa daigaku desu
+そこはコンビニです,there is convenience store,soko wa conbini desu
+そこはデパートです,there is department store,soko wa depaato desu
+ここはホテルです,here is hotel,koko wa hoteru desu
+ここはえきです,here is train station,koko wa eki desu
+ここはバステイです,here is bus stop,koko wa busutei desu
+ここはだいがくです,here is university,koko wa daigaku desu
+ここはコンビニです,here is convenience store,koko wa conbini desu
+ここはデパートです,here is department store,koko wa depaato desu
+ホテルはどこですか,where is the hotel,hoteru wa doko desu ka
+えきはどこですか,where is the train station,eki wa doko desu ka
+バステイはどこですか,where is the bus stop,busutei wa doko desu ka
+だいがくはどこですか,where is the university,daigaku wa doko desu ka
+コンビニはどこですか,where is the convenience store,conbini wa doko desu ka
+デパートはどこですか,where is the department store,depaato wa doko desu ka
+これはどこですか,where is this,kore wa doko desu ka
+それはどこですか,where is that,sore wa doko desu ka
+どこですか,where is it,doko desu ka
+はなはどこですか,where is hana,hana wa doko desu ka
+けんはどこですか,where is ken,ken wa doko desu ka
+なおみはどこですか,where is naomi,naomi wa doko desu ka
+すしはどこですか,where is the sushi,sushi wa doko desu ka
+ごはんはどこですか,where is the rice,gohan wa doko desu ka
+みずはどこですか,where is the water,mizu wa doko desu ka
+おちゃはどこですか,where is the green tea,ochya wa doko desu ka
+ラーメンはどこですか,where is the ramen,raamen wa doko desu ka
+カリーはどこですか,where is the curry,karii wa doko desu ka
+ピザはどこですか,where is the pizza,piza wa doko desu ka
+ケーキはどこですか,where is the cake,keeki wa doko desu ka
+おいしいすしはどこですか,where is the tasty sushi,oishii sushi wa doko desu ka
+おいしいごはんはどこですか,where is the tasty rice,oishii gohan wa doko desu ka
+おいしいみずはどこですか,where is the tasty water,oishii mizu wa doko desu ka
+おいしいおちゃはどこですか,where is the tasty green tea,oishii ochya wa doko desu ka
+おいしいラーメンはどこですか,where is the tasty ramen,oishii raamen wa doko desu ka
+おいしいカリーはどこですか,where is the tasty curry,oishii karii wa doko desu ka
+おいしいピザはどこですか,where is the tasty pizza,oishii piza wa doko desu ka
+おいしいケーキはどこですか,where is the tasty cake,oishii keeki wa doko desu ka
+やさしいせんせいはどこですか,where is the nice teacher,yasashii seinsei wa doko desu ka
+やさしいがくせいはどこですか,where is the nice student,yasashii gakusei wa doko desu ka
+やさしいべんごしはどこですか,where is the nice lawyer,yasashii bengoshi wa doko desu ka
+やさしいひとはどこですか,where is the nice person,yasashii hit wa doko desu ka
+やさしいいしゃはどこですか,where is the nice doctor,yasashii ishya wa doko desu ka
+かっこいいせんせいはどこですか,where is the cool teacher,kakoii seinsei wa doko desu ka
+かっこいいがくせいはどこですか,where is the cool student,kakoii gakusei wa doko desu ka
+かっこいいべんごしはどこですか,where is the cool lawyer,kakoii bengoshi wa doko desu ka
+かっこいいひとはどこですか,where is the cool person,kakoii hit wa doko desu ka
+かっこいいいしゃはどこですか,where is the cool doctor,kakoii ishya wa doko desu ka
+せんせいはどこですか,where is the teacher,seinsei wa doko desu ka
+がくせいはどこですか,where is the student,gakusei wa doko desu ka
+べんごしはどこですか,where is the lawyer,bengoshi wa doko desu ka
+ひとはどこですか,where is the person,hit wa doko desu ka
+いしゃはどこですか,where is the doctor,ishya wa doko desu ka
+アメリカじんはどこですか,where is the american,z wa doko desu ka
+にほんじんはどこですか,where is the japanese,z wa doko desu ka
+イギリスじんはどこですか,where is the british,z wa doko desu ka
+ブラジルじんはどこですか,where is the brazilian,z wa doko desu ka
+カナダじんはどこですか,where is the canadian,z wa doko desu ka
+アメリカはどこですか,where is america,z wa doko desu ka
+にほんはどこですか,where is japan,z wa doko desu ka
+イギリスはどこですか,where is britian,z wa doko desu ka
+ブラジルはどこですか,where is brazil,z wa doko desu ka
+カナダはどこですか,where is canada,z wa doko desu ka
+こことそこ,here and there,koko to soko
+こことそれ,here and that,koko to sore
+こことこれ,here and this,koko to kore
+そことここ,there and here,soko to koko
+そことそれ,there and that,soko to sore
+そことこれ,there and this,soko to kore
+そこですか,is it there,soko desu ka
+ここですか,is it here,koko desu ka
+そこです,it is there,soko desu
+ここです,it is here,koko desu
+ホテルはそこです,the hotel is there,hoteru wa soko desu
+ホテルはここです,the hotel is here,hoteru wa koko desu
+えきはそこです,the train station is there,eki wa soko desu
+えきはここです,the train station is here,eki wa koko desu
+バステイはそこです,the bus stop is there,busutei wa soko desu
+バステイはここです,the bus stop is here,busutei wa koko desu
+だいがくはそこです,the university is there,daigaku wa soko desu
+だいがくはここです,the university is here,daigaku wa koko desu
+コンビニはそこです,the convenience store is there,conbini wa soko desu
+コンビニはここです,the convenience store is here,conbini wa koko desu
+デパートはそこです,the department store is there,depaato wa soko desu
+デパートはここです,the department store is here,depaato wa koko desu
+ホテルはそこですか,is the hotel there,hoteru wa soko desu ka
+ホテルはここですか,is the hotel here,hoteru wa koko desu ka
+えきはそこですか,is the train station there,eki wa soko desu ka
+えきはここですか,is the train station here,eki wa koko desu ka
+バステイはそこですか,is the bus stop there,busutei wa soko desu ka
+バステイはここですか,is the bus stop here,busutei wa koko desu ka
+だいがくはそこですか,is the university there,daigaku wa soko desu ka
+だいがくはここですか,is the university here,daigaku wa koko desu ka
+コンビニはそこですか,is the convenience store there,conbini wa soko desu ka
+コンビニはここですか,is the convenience store here,conbini wa koko desu ka
+デパートはそこですか,is the department store there,depaato wa soko desu ka
+デパートはここですか,is the department store here,depaato wa koko desu ka
