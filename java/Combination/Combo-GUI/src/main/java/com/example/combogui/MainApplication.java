@@ -15,7 +15,7 @@ public class MainApplication extends Application {
 
         FXMLLoader fxmlLoader = new FXMLLoader(MainApplication.class.getResource("main-view.fxml"));
 
-        Scene scene = new Scene(fxmlLoader.load(), 540, 620);
+        Scene scene = new Scene(fxmlLoader.load(), 540, 650);
         stage.setTitle("Sentence Combo Generator!");
         stage.setScene(scene);
         stage.show();

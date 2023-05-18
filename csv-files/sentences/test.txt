@@ -38,7 +38,22 @@ amerika jin,nihon jin,igirisu jin,burajiru jin,kanada jin
 hotel,train station,bus stop,university,convenience store,department store
 hoteru,eki,busutei,daigaku,conbini,depaato
 
+ぼうし,かさ,コート,くつ
+hat,umbrella,coat,shoe
+boushi,kasa,kooto,kutsu
+
+あかい,しろい
+red,white
+akai,shiroi
 
 
-は   です  か
+これら,それら
+these,those
+korera,sorera
+
+
+は   です  か   わたしの
 はい　いいえ　と
+
+わたしわのYはZです
+

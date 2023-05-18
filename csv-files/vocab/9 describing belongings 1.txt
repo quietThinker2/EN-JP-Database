@@ -1,0 +1,9 @@
+ぼうし,hat,boushi
+かさ,umbrella,kasa
+あかい,red,akai
+しろい,white,shiroi
+コート,coat,kooto
+くつ,shoe,kutsu
+わたしの,my,watashi　no
+これら,these,korera
+それら,those,sorera

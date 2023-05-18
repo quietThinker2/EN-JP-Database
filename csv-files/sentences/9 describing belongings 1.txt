@@ -1,0 +1,534 @@
+かさとぼうし,a umbrella and a hat,kasa to boushi
+コートとぼうし,a coat and a hat,kooto to boushi
+くつとぼうし,a shoe and a hat,kutsu to boushi
+ぼうしとかさ,a hat and a umbrella,boushi to kasa
+コートとかさ,a coat and a umbrella,kooto to kasa
+くつとかさ,a shoe and a umbrella,kutsu to kasa
+ぼうしとコート,a hat and a coat,boushi to kooto
+かさとコート,a umbrella and a coat,kasa to kooto
+くつとコート,a shoe and a coat,kutsu to kooto
+ぼうしとくつ,a hat and a shoe,boushi to kutsu
+かさとくつ,a umbrella and a shoe,kasa to kutsu
+コートとくつ,a coat and a shoe,kooto to kutsu
+ぼうしです,it is a hat,boushi desu
+かさです,it is a umbrella,kasa desu
+コートです,it is a coat,kooto desu
+くつです,it is a shoe,kutsu desu
+ぼうしですか,is it a hat,boushi desu ka
+かさですか,is it a umbrella,kasa desu ka
+コートですか,is it a coat,kooto desu ka
+くつですか,is it a shoe,kutsu desu ka
+あかいです,it is red,akai desu
+しろいです,it is white,shiroi desu
+あかいですか,is it red,akai desu ka
+しろいですか,is it white,shiroi desu ka
+あかいとしろい,red and white,akai to shiroi
+しろいとあかい,white and red,shiroi to akai
+これはあかいです,this is red,kore wa akai desu
+これはしろいです,this is white,kore wa shiroi desu
+これはあかいですか,is this red,kore wa akai desu ka
+これはしろいですか,is this white,kore wa shiroi desu ka
+それはあかいです,that is red,sore wa akai desu
+それはしろいです,that is white,sore wa shiroi desu
+それはあかいですか,is that red,sore wa akai desu ka
+それはしろいですか,is that white,sore wa shiroi desu ka
+あかいぼうしです,it is a red hat,akai boushi desu
+あかいかさです,it is a red umbrella,akai kasa desu
+あかいコートです,it is a red coat,akai kooto desu
+あかいくつです,it is a red shoe,akai kutsu desu
+しろいぼうしです,it is a white hat,shiroi boushi desu
+しろいかさです,it is a white umbrella,shiroi kasa desu
+しろいコートです,it is a white coat,shiroi kooto desu
+しろいくつです,it is a white shoe,shiroi kutsu desu
+あかいぼうしですか,is it a red hat,akai boushi desu ka
+あかいかさですか,is it a red umbrella,akai kasa desu ka
+あかいコートですか,is it a red coat,akai kooto desu ka
+あかいくつですか,is it a red shoe,akai kutsu desu ka
+しろいぼうしですか,is it a white hat,shiroi boushi desu ka
+しろいかさですか,is it a white umbrella,shiroi kasa desu ka
+しろいコートですか,is it a white coat,shiroi kooto desu ka
+しろいくつですか,is it a white shoe,shiroi kutsu desu ka
+あかいぼうし,a red hat,akai boushi
+あかいかさ,a red umbrella,akai kasa
+あかいコート,a red coat,akai kooto
+あかいくつ,a red shoe,akai kutsu
+しろいぼうし,a white hat,shiroi boushi
+しろいかさ,a white umbrella,shiroi kasa
+しろいコート,a white coat,shiroi kooto
+しろいくつ,a white shoe,shiroi kutsu
+ぼうしはあかいです,the hat is red,boushi wa akai desu
+かさはあかいです,the umbrella is red,kasa wa akai desu
+コートはあかいです,the coat is red,kooto wa akai desu
+くつはあかいです,the shoe is red,kutsu wa akai desu
+ぼうしはしろいです,the hat is white,boushi wa shiroi desu
+かさはしろいです,the umbrella is white,kasa wa shiroi desu
+コートはしろいです,the coat is white,kooto wa shiroi desu
+くつはしろいです,the shoe is white,kutsu wa shiroi desu
+ぼうしはあかいですか,is the hat red,boushi wa akai desu ka
+ぼうしはしろいですか,is the hat white,boushi wa shiroi desu ka
+かさはあかいですか,is the umbrella red,kasa wa akai desu ka
+かさはしろいですか,is the umbrella white,kasa wa shiroi desu ka
+コートはあかいですか,is the coat red,kooto wa akai desu ka
+コートはしろいですか,is the coat white,kooto wa shiroi desu ka
+くつはあかいですか,is the shoe red,kutsu wa akai desu ka
+くつはしろいですか,is the shoe white,kutsu wa shiroi desu ka
+かさとぼうしはしろいです,the umbrella and the hat are white,kasa to boushi wa shiroi desu
+コートとぼうしはしろいです,the coat and the hat are white,kooto to boushi wa shiroi desu
+くつとぼうしはしろいです,the shoe and the hat are white,kutsu to boushi wa shiroi desu
+ぼうしとかさはしろいです,the hat and the umbrella are white,boushi to kasa wa shiroi desu
+コートとかさはしろいです,the coat and the umbrella are white,kooto to kasa wa shiroi desu
+くつとかさはしろいです,the shoe and the umbrella are white,kutsu to kasa wa shiroi desu
+ぼうしとコートはしろいです,the hat and the coat are white,boushi to kooto wa shiroi desu
+かさとコートはしろいです,the umbrella and the coat are white,kasa to kooto wa shiroi desu
+くつとコートはしろいです,the shoe and the coat are white,kutsu to kooto wa shiroi desu
+ぼうしとくつはしろいです,the hat and the shoe are white,boushi to kutsu wa shiroi desu
+かさとくつはしろいです,the umbrella and the shoe are white,kasa to kutsu wa shiroi desu
+コートとくつはしろいです,the coat and the shoe are white,kooto to kutsu wa shiroi desu
+かさとぼうしはあかいです,the umbrella and the hat are red,kasa to boushi wa akai desu
+コートとぼうしはあかいです,the coat and the hat are red,kooto to boushi wa akai desu
+くつとぼうしはあかいです,the shoe and the hat are red,kutsu to boushi wa akai desu
+ぼうしとかさはあかいです,the hat and the umbrella are red,boushi to kasa wa akai desu
+コートとかさはあかいです,the coat and the umbrella are red,kooto to kasa wa akai desu
+くつとかさはあかいです,the shoe and the umbrella are red,kutsu to kasa wa akai desu
+ぼうしとコートはあかいです,the hat and the coat are red,boushi to kooto wa akai desu
+かさとコートはあかいです,the umbrella and the coat are red,kasa to kooto wa akai desu
+くつとコートはあかいです,the shoe and the coat are red,kutsu to kooto wa akai desu
+ぼうしとくつはあかいです,the hat and the shoe are red,boushi to kutsu wa akai desu
+かさとくつはあかいです,the umbrella and the shoe are red,kasa to kutsu wa akai desu
+コートとくつはあかいです,the coat and the shoe are red,kooto to kutsu wa akai desu
+あかいぼうしとしろいぼうし,a red hat and a white hat,akai boushi to shiroi boushi
+あかいぼうしとあかいかさ,a red hat and a red umbrella,akai boushi to akai kasa
+あかいぼうしとしろいかさ,a red hat and a white umbrella,akai boushi to shiroi kasa
+あかいぼうしとあかいコート,a red hat and a red coat,akai boushi to akai kooto
+あかいぼうしとしろいコート,a red hat and a white coat,akai boushi to shiroi kooto
+あかいぼうしとあかいくつ,a red hat and a red shoe,akai boushi to akai kutsu
+あかいぼうしとしろいくつ,a red hat and a white shoe,akai boushi to shiroi kutsu
+あかいかさとあかいぼうし,a red umbrella and a red hat,akai kasa to akai boushi
+あかいかさとしろいぼうし,a red umbrella and a white hat,akai kasa to shiroi boushi
+あかいかさとしろいかさ,a red umbrella and a white umbrella,akai kasa to shiroi kasa
+あかいかさとあかいコート,a red umbrella and a red coat,akai kasa to akai kooto
+あかいかさとしろいコート,a red umbrella and a white coat,akai kasa to shiroi kooto
+あかいかさとあかいくつ,a red umbrella and a red shoe,akai kasa to akai kutsu
+あかいかさとしろいくつ,a red umbrella and a white shoe,akai kasa to shiroi kutsu
+あかいコートとあかいぼうし,a red coat and a red hat,akai kooto to akai boushi
+あかいコートとしろいぼうし,a red coat and a white hat,akai kooto to shiroi boushi
+あかいコートとあかいかさ,a red coat and a red umbrella,akai kooto to akai kasa
+あかいコートとしろいかさ,a red coat and a white umbrella,akai kooto to shiroi kasa
+あかいコートとしろいコート,a red coat and a white coat,akai kooto to shiroi kooto
+あかいコートとあかいくつ,a red coat and a red shoe,akai kooto to akai kutsu
+あかいコートとしろいくつ,a red coat and a white shoe,akai kooto to shiroi kutsu
+あかいくつとあかいぼうし,a red shoe and a red hat,akai kutsu to akai boushi
+あかいくつとしろいぼうし,a red shoe and a white hat,akai kutsu to shiroi boushi
+あかいくつとあかいかさ,a red shoe and a red umbrella,akai kutsu to akai kasa
+あかいくつとしろいかさ,a red shoe and a white umbrella,akai kutsu to shiroi kasa
+あかいくつとあかいコート,a red shoe and a red coat,akai kutsu to akai kooto
+あかいくつとしろいコート,a red shoe and a white coat,akai kutsu to shiroi kooto
+あかいくつとしろいくつ,a red shoe and a white shoe,akai kutsu to shiroi kutsu
+しろいぼうしとあかいぼうし,a white hat and a red hat,shiroi boushi to akai boushi
+しろいぼうしとあかいかさ,a white hat and a red umbrella,shiroi boushi to akai kasa
+しろいぼうしとしろいかさ,a white hat and a white umbrella,shiroi boushi to shiroi kasa
+しろいぼうしとあかいコート,a white hat and a red coat,shiroi boushi to akai kooto
+しろいぼうしとしろいコート,a white hat and a white coat,shiroi boushi to shiroi kooto
+しろいぼうしとあかいくつ,a white hat and a red shoe,shiroi boushi to akai kutsu
+しろいぼうしとしろいくつ,a white hat and a white shoe,shiroi boushi to shiroi kutsu
+しろいかさとあかいぼうし,a white umbrella and a red hat,shiroi kasa to akai boushi
+しろいかさとしろいぼうし,a white umbrella and a white hat,shiroi kasa to shiroi boushi
+しろいかさとあかいかさ,a white umbrella and a red umbrella,shiroi kasa to akai kasa
+しろいかさとあかいコート,a white umbrella and a red coat,shiroi kasa to akai kooto
+しろいかさとしろいコート,a white umbrella and a white coat,shiroi kasa to shiroi kooto
+しろいかさとあかいくつ,a white umbrella and a red shoe,shiroi kasa to akai kutsu
+しろいかさとしろいくつ,a white umbrella and a white shoe,shiroi kasa to shiroi kutsu
+しろいコートとあかいぼうし,a white coat and a red hat,shiroi kooto to akai boushi
+しろいコートとしろいぼうし,a white coat and a white hat,shiroi kooto to shiroi boushi
+しろいコートとあかいかさ,a white coat and a red umbrella,shiroi kooto to akai kasa
+しろいコートとしろいかさ,a white coat and a white umbrella,shiroi kooto to shiroi kasa
+しろいコートとあかいコート,a white coat and a red coat,shiroi kooto to akai kooto
+しろいコートとあかいくつ,a white coat and a red shoe,shiroi kooto to akai kutsu
+しろいコートとしろいくつ,a white coat and a white shoe,shiroi kooto to shiroi kutsu
+しろいくつとあかいぼうし,a white shoe and a red hat,shiroi kutsu to akai boushi
+しろいくつとしろいぼうし,a white shoe and a white hat,shiroi kutsu to shiroi boushi
+しろいくつとあかいかさ,a white shoe and a red umbrella,shiroi kutsu to akai kasa
+しろいくつとしろいかさ,a white shoe and a white umbrella,shiroi kutsu to shiroi kasa
+しろいくつとあかいコート,a white shoe and a red coat,shiroi kutsu to akai kooto
+しろいくつとしろいコート,a white shoe and a white coat,shiroi kutsu to shiroi kooto
+しろいくつとあかいくつ,a white shoe and a red shoe,shiroi kutsu to akai kutsu
+ぼうしとあかいぼうし,a hat and a red hat,boushi to akai boushi
+ぼうしとしろいぼうし,a hat and a white hat,boushi to shiroi boushi
+ぼうしとあかいかさ,a hat and a red umbrella,boushi to akai kasa
+ぼうしとしろいかさ,a hat and a white umbrella,boushi to shiroi kasa
+ぼうしとあかいコート,a hat and a red coat,boushi to akai kooto
+ぼうしとしろいコート,a hat and a white coat,boushi to shiroi kooto
+ぼうしとあかいくつ,a hat and a red shoe,boushi to akai kutsu
+ぼうしとしろいくつ,a hat and a white shoe,boushi to shiroi kutsu
+かさとあかいぼうし,a umbrella and a red hat,kasa to akai boushi
+かさとしろいぼうし,a umbrella and a white hat,kasa to shiroi boushi
+かさとあかいかさ,a umbrella and a red umbrella,kasa to akai kasa
+かさとしろいかさ,a umbrella and a white umbrella,kasa to shiroi kasa
+かさとあかいコート,a umbrella and a red coat,kasa to akai kooto
+かさとしろいコート,a umbrella and a white coat,kasa to shiroi kooto
+かさとあかいくつ,a umbrella and a red shoe,kasa to akai kutsu
+かさとしろいくつ,a umbrella and a white shoe,kasa to shiroi kutsu
+コートとあかいぼうし,a coat and a red hat,kooto to akai boushi
+コートとしろいぼうし,a coat and a white hat,kooto to shiroi boushi
+コートとあかいかさ,a coat and a red umbrella,kooto to akai kasa
+コートとしろいかさ,a coat and a white umbrella,kooto to shiroi kasa
+コートとあかいコート,a coat and a red coat,kooto to akai kooto
+コートとしろいコート,a coat and a white coat,kooto to shiroi kooto
+コートとあかいくつ,a coat and a red shoe,kooto to akai kutsu
+コートとしろいくつ,a coat and a white shoe,kooto to shiroi kutsu
+くつとあかいぼうし,a shoe and a red hat,kutsu to akai boushi
+くつとしろいぼうし,a shoe and a white hat,kutsu to shiroi boushi
+くつとあかいかさ,a shoe and a red umbrella,kutsu to akai kasa
+くつとしろいかさ,a shoe and a white umbrella,kutsu to shiroi kasa
+くつとあかいコート,a shoe and a red coat,kutsu to akai kooto
+くつとしろいコート,a shoe and a white coat,kutsu to shiroi kooto
+くつとあかいくつ,a shoe and a red shoe,kutsu to akai kutsu
+くつとしろいくつ,a shoe and a white shoe,kutsu to shiroi kutsu
+これはぼうしです,this is a hat,kore wa boushi desu
+これはかさです,this is a umbrella,kore wa kasa desu
+これはコートです,this is a coat,kore wa kooto desu
+これはくつです,this is a shoe,kore wa kutsu desu
+これはぼうしですか,is this a hat,kore wa boushi desu ka
+これはかさですか,is this a umbrella,kore wa kasa desu ka
+これはコートですか,is this a coat,kore wa kooto desu ka
+これはくつですか,is this a shoe,kore wa kutsu desu ka
+これはあかいぼうしです,this is red hat,kore wa akai boushi desu
+これはあかいかさです,this is red umbrella,kore wa akai kasa desu
+これはあかいコートです,this is red coat,kore wa akai kooto desu
+これはあかいくつです,this is red shoe,kore wa akai kutsu desu
+これはしろいぼうしです,this is white hat,kore wa shiroi boushi desu
+これはしろいかさです,this is white umbrella,kore wa shiroi kasa desu
+これはしろいコートです,this is white coat,kore wa shiroi kooto desu
+これはしろいくつです,this is white shoe,kore wa shiroi kutsu desu
+これはあかいぼうしですか,is this a red hat,kore wa akai boushi desu ka
+これはあかいかさですか,is this a red umbrella,kore wa akai kasa desu ka
+これはあかいコートですか,is this a red coat,kore wa akai kooto desu ka
+これはあかいくつですか,is this a red shoe,kore wa akai kutsu desu ka
+これはしろいぼうしですか,is this a white hat,kore wa shiroi boushi desu ka
+これはしろいかさですか,is this a white umbrella,kore wa shiroi kasa desu ka
+これはしろいコートですか,is this a white coat,kore wa shiroi kooto desu ka
+これはしろいくつですか,is this a white shoe,kore wa shiroi kutsu desu ka
+それはぼうしです,that is a hat,sore wa boushi desu
+それはかさです,that is a umbrella,sore wa kasa desu
+それはコートです,that is a coat,sore wa kooto desu
+それはくつです,that is a shoe,sore wa kutsu desu
+それはぼうしですか,is that a hat,sore wa boushi desu ka
+それはかさですか,is that a umbrella,sore wa kasa desu ka
+それはコートですか,is that a coat,sore wa kooto desu ka
+それはくつですか,is that a shoe,sore wa kutsu desu ka
+それはあかいぼうしです,that is a red hat,sore wa akai boushi desu
+それはあかいかさです,that is a red umbrella,sore wa akai kasa desu
+それはあかいコートです,that is a red coat,sore wa akai kooto desu
+それはあかいくつです,that is a red shoe,sore wa akai kutsu desu
+それはしろいぼうしです,that is a white hat,sore wa shiroi boushi desu
+それはしろいかさです,that is a white umbrella,sore wa shiroi kasa desu
+それはしろいコートです,that is a white coat,sore wa shiroi kooto desu
+それはしろいくつです,that is a white shoe,sore wa shiroi kutsu desu
+それはあかいぼうしですか,is that a red hat,sore wa akai boushi desu ka
+それはあかいかさですか,is that a red umbrella,sore wa akai kasa desu ka
+それはあかいコートですか,is that a red coat,sore wa akai kooto desu ka
+それはあかいくつですか,is that a red shoe,sore wa akai kutsu desu ka
+それはしろいぼうしですか,is that a white hat,sore wa shiroi boushi desu ka
+それはしろいかさですか,is that a white umbrella,sore wa shiroi kasa desu ka
+それはしろいコートですか,is that a white coat,sore wa shiroi kooto desu ka
+それはしろいくつですか,is that a white shoe,sore wa shiroi kutsu desu ka
+あかいぼうしはここです,the red hats are here,akai boushi wa koko desu
+あかいかさはここです,the red umbrellas are here,akai kasa wa koko desu
+あかいコートはここです,the red coats are here,akai kooto wa koko desu
+あかいくつはここです,the red shoes are here,akai kutsu wa koko desu
+しろいぼうしはここです,the white hats are here,shiroi boushi wa koko desu
+しろいかさはここです,the white umbrellas are here,shiroi kasa wa koko desu
+しろいコートはここです,the white coats are here,shiroi kooto wa koko desu
+しろいくつはここです,the white shoes are here,shiroi kutsu wa koko desu
+あかいぼうしはここですか,are the red hats here,akai boushi wa koko desu ka
+あかいかさはここですか,are the red umbrellas here,akai kasa wa koko desu ka
+あかいコートはここですか,are the red coats here,akai kooto wa koko desu ka
+あかいくつはここですか,are the red shoes here,akai kutsu wa koko desu ka
+しろいぼうしはここですか,are the white hats here,shiroi boushi wa koko desu ka
+しろいかさはここですか,are the white umbrellas here,shiroi kasa wa koko desu ka
+しろいコートはここですか,are the white coats here,shiroi kooto wa koko desu ka
+しろいくつはここですか,are the white shoes here,shiroi kutsu wa koko desu ka
+ぼうしはどこですか,where is the hat,boushi wa doko desu ka
+かさはどこですか,where is the umbrella,kasa wa doko desu ka
+コートはどこですか,where is the coat,kooto wa doko desu ka
+くつはどこですか,where is the shoe,kutsu wa doko desu ka
+あかいぼうしはどこですか,where is the red hat,akai boushi wa doko desu ka
+しろいぼうしはどこですか,where is the white hat,shiroi boushi wa doko desu ka
+あかいかさはどこですか,where is the red umbrella,akai kasa wa doko desu ka
+しろいかさはどこですか,where is the white umbrella,shiroi kasa wa doko desu ka
+あかいコートはどこですか,where is the red coat,akai kooto wa doko desu ka
+しろいコートはどこですか,where is the white coat,shiroi kooto wa doko desu ka
+あかいくつはどこですか,where is the red shoe,akai kutsu wa doko desu ka
+しろいくつはどこですか,where is the white shoe,shiroi kutsu wa doko desu ka
+わたしのぼうし,my hat,watashi no boushi
+わたしのかさ,my umbrella,watashi no kasa
+わたしのコート,my coat,watashi no kooto
+わたしのくつ,my shoe,watashi no kutsu
+わたしのあかいぼうし,my red hat,watashi no akai boushi
+わたしのしろいぼうし,my white hat,watashi no shiroi boushi
+わたしのあかいかさ,my red umbrella,watashi no akai kasa
+わたしのしろいかさ,my white umbrella,watashi no shiroi kasa
+わたしのあかいコート,my red coat,watashi no akai kooto
+わたしのしろいコート,my white coat,watashi no shiroi kooto
+わたしのあかいくつ,my red shoe,watashi no akai kutsu
+わたしのしろいくつ,my white shoe,watashi no shiroi kutsu
+わたしのぼうしです,it is my hat,watashi no boushi desu
+わたしのかさです,it is my umbrella,watashi no kasa desu
+わたしのコートです,it is my coat,watashi no kooto desu
+わたしのくつです,it is my shoe,watashi no kutsu desu
+わたしのぼうしですか,is it my hat,watashi no boushi desu ka
+わたしのかさですか,is it my umbrella,watashi no kasa desu ka
+わたしのコートですか,is it my coat,watashi no kooto desu ka
+わたしのくつですか,is it my shoe,watashi no kutsu desu ka
+わたしのぼうしはあかいです,my hat is red,watashi no boushi wa akai desu
+わたしのぼうしはしろいです,my hat is white,watashi no boushi wa shiroi desu
+わたしのかさはあかいです,my umbrella is red,watashi no kasa wa akai desu
+わたしのかさはしろいです,my umbrella is white,watashi no kasa wa shiroi desu
+わたしのコートはあかいです,my coat is red,watashi no kooto wa akai desu
+わたしのコートはしろいです,my coat is white,watashi no kooto wa shiroi desu
+わたしのくつはあかいです,my shoe is red,watashi no kutsu wa akai desu
+わたしのくつはしろいです,my shoe is white,watashi no kutsu wa shiroi desu
+わたしのぼうしはあかいですか,is my hat red,watashi no boushi wa akai desu ka
+わたしのぼうしはしろいですか,is my hat white,watashi no boushi wa shiroi desu ka
+わたしのかさはあかいですか,is my umbrella red,watashi no kasa wa akai desu ka
+わたしのかさはしろいですか,is my umbrella white,watashi no kasa wa shiroi desu ka
+わたしのコートはあかいですか,is my coat red,watashi no kooto wa akai desu ka
+わたしのコートはしろいですか,is my coat white,watashi no kooto wa shiroi desu ka
+わたしのくつはあかいですか,is my shoe red,watashi no kutsu wa akai desu ka
+わたしのくつはしろいですか,is my shoe white,watashi no kutsu wa shiroi desu ka
+わたしのあかいぼうしです,it is my red hat,watashi no akai boushi desu
+わたしのあかいかさです,it is my red umbrella,watashi no akai kasa desu
+わたしのあかいコートです,it is my red coat,watashi no akai kooto desu
+わたしのあかいくつです,it is my red shoe,watashi no akai kutsu desu
+わたしのしろいぼうしです,it is my white hat,watashi no shiroi boushi desu
+わたしのしろいかさです,it is my white umbrella,watashi no shiroi kasa desu
+わたしのしろいコートです,it is my white coat,watashi no shiroi kooto desu
+わたしのしろいくつです,it is my white shoe,watashi no shiroi kutsu desu
+わたしのあかいぼうしですか,is it my red hat,watashi no akai boushi desu ka
+わたしのあかいかさですか,is it my red umbrella,watashi no akai kasa desu ka
+わたしのあかいコートですか,is it my red coat,watashi no akai kooto desu ka
+わたしのあかいくつですか,is it my red shoe,watashi no akai kutsu desu ka
+わたしのしろいぼうしですか,is it my white hat,watashi no shiroi boushi desu ka
+わたしのしろいかさですか,is it my white umbrella,watashi no shiroi kasa desu ka
+わたしのしろいコートですか,is it my white coat,watashi no shiroi kooto desu ka
+わたしのしろいくつですか,is it my white shoe,watashi no shiroi kutsu desu ka
+これはわたしのぼうしです,this is my hat,kore wa watashi no boushi desu
+これはわたしのかさです,this is my umbrella,kore wa watashi no kasa desu
+これはわたしのコートです,this is my coat,kore wa watashi no kooto desu
+これはわたしのくつです,this is my shoe,kore wa watashi no kutsu desu
+これはわたしのぼうしですか,is this my hat,kore wa watashi no boushi desu ka
+これはわたしのかさですか,is this my umbrella,kore wa watashi no kasa desu ka
+これはわたしのコートですか,is this my coat,kore wa watashi no kooto desu ka
+これはわたしのくつですか,is this my shoe,kore wa watashi no kutsu desu ka
+これはわたしのあかいぼうしです,this is my red hat,kore wa watashi no akai boushi desu
+これはわたしのあかいかさです,this is my red umbrella,kore wa watashi no akai kasa desu
+これはわたしのあかいコートです,this is my red coat,kore wa watashi no akai kooto desu
+これはわたしのあかいくつです,this is my red shoe,kore wa watashi no akai kutsu desu
+これはわたしのしろいぼうしです,this is my white hat,kore wa watashi no shiroi boushi desu
+これはわたしのしろいかさです,this is my white umbrella,kore wa watashi no shiroi kasa desu
+これはわたしのしろいコートです,this is my white coat,kore wa watashi no shiroi kooto desu
+これはわたしのしろいくつです,this is my white shoe,kore wa watashi no shiroi kutsu desu
+これはわたしのあかいぼうしですか,is this my red hat,kore wa watashi no akai boushi desu ka
+これはわたしのあかいかさですか,is this my red umbrella,kore wa watashi no akai kasa desu ka
+これはわたしのあかいコートですか,is this my red coat,kore wa watashi no akai kooto desu ka
+これはわたしのあかいくつですか,is this my red shoe,kore wa watashi no akai kutsu desu ka
+これはわたしのしろいぼうしですか,is this my white hat,kore wa watashi no shiroi boushi desu ka
+これはわたしのしろいかさですか,is this my white umbrella,kore wa watashi no shiroi kasa desu ka
+これはわたしのしろいコートですか,is this my white coat,kore wa watashi no shiroi kooto desu ka
+これはわたしのしろいくつですか,is this my white shoe,kore wa watashi no shiroi kutsu desu ka
+それはわたしのぼうしです,that is my hat,sore wa watashi no boushi desu
+それはわたしのかさです,that is my umbrella,sore wa watashi no kasa desu
+それはわたしのコートです,that is my coat,sore wa watashi no kooto desu
+それはわたしのくつです,that is my shoe,sore wa watashi no kutsu desu
+それはわたしのぼうしですか,is that my hat,sore wa watashi no boushi desu ka
+それはわたしのかさですか,is that my umbrella,sore wa watashi no kasa desu ka
+それはわたしのコートですか,is that my coat,sore wa watashi no kooto desu ka
+それはわたしのくつですか,is that my shoe,sore wa watashi no kutsu desu ka
+それはわたしのあかいぼうしです,that is my red hat,sore wa watashi no akai boushi desu
+それはわたしのあかいかさです,that is my red umbrella,sore wa watashi no akai kasa desu
+それはわたしのあかいコートです,that is my red coat,sore wa watashi no akai kooto desu
+それはわたしのあかいくつです,that is my red shoe,sore wa watashi no akai kutsu desu
+それはわたしのしろいぼうしです,that is my white hat,sore wa watashi no shiroi boushi desu
+それはわたしのしろいかさです,that is my white umbrella,sore wa watashi no shiroi kasa desu
+それはわたしのしろいコートです,that is my white coat,sore wa watashi no shiroi kooto desu
+それはわたしのしろいくつです,that is my white shoe,sore wa watashi no shiroi kutsu desu
+それはわたしのあかいぼうしですか,is that my red hat,sore wa watashi no akai boushi desu ka
+それはわたしのあかいかさですか,is that my red umbrella,sore wa watashi no akai kasa desu ka
+それはわたしのあかいコートですか,is that my red coat,sore wa watashi no akai kooto desu ka
+それはわたしのあかいくつですか,is that my red shoe,sore wa watashi no akai kutsu desu ka
+それはわたしのしろいぼうしですか,is that my white hat,sore wa watashi no shiroi boushi desu ka
+それはわたしのしろいかさですか,is that my white umbrella,sore wa watashi no shiroi kasa desu ka
+それはわたしのしろいコートですか,is that my white coat,sore wa watashi no shiroi kooto desu ka
+それはわたしのしろいくつですか,is that my white shoe,sore wa watashi no shiroi kutsu desu ka
+わたしのあかいぼうしはどこですか,where is my red hat,watashi no akai boushi wa doko desu ka
+わたしのあかいかさはどこですか,where is my red umbrella,watashi no akai kasa wa doko desu ka
+わたしのあかいコートはどこですか,where is my red coat,watashi no akai kooto wa doko desu ka
+わたしのあかいくつはどこですか,where is my red shoe,watashi no akai kutsu wa doko desu ka
+わたしのしろいぼうしはどこですか,where is my white hat,watashi no shiroi boushi wa doko desu ka
+わたしのしろいかさはどこですか,where is my white umbrella,watashi no shiroi kasa wa doko desu ka
+わたしのしろいコートはどこですか,where is my white coat,watashi no shiroi kooto wa doko desu ka
+わたしのしろいくつはどこですか,where is my white shoe,watashi no shiroi kutsu wa doko desu ka
+わたしのぼうしはどこですか,where is my hat,watashi no boushi wa doko desu ka
+わたしのかさはどこですか,where is my umbrella,watashi no kasa wa doko desu ka
+わたしのコートはどこですか,where is my coat,watashi no kooto wa doko desu ka
+わたしのくつはどこですか,where is my shoe,watashi no kutsu wa doko desu ka
+これらはあかいです,these are red,korera wa akai desu
+これらはしろいです,these are white,korera wa shiroi desu
+これらはあかいですか,are these red,korera wa akai desu ka
+これらはしろいですか,are these white,korera wa shiroi desu ka
+それらはあかいです,those are red,sorera wa akai desu
+それらはしろいです,those are white,sorera wa shiroi desu
+それらはあかいですか,are those red,sorera wa akai desu ka
+それらはしろいですか,are those white,sorera wa shiroi desu ka
+これらはぼうしです,these are hats,korera wa boushi desu
+これらはかさです,these are umbrellas,korera wa kasa desu
+これらはコートです,these are coats,korera wa kooto desu
+これらはくつです,these are shoes,korera wa kutsu desu
+これらはぼうしですか,are these hats,korera wa boushi desu ka
+これらはかさですか,are these umbrellas,korera wa kasa desu ka
+これらはコートですか,are these coats,korera wa kooto desu ka
+これらはくつですか,are these shoes,korera wa kutsu desu ka
+これらはあかいぼうしです,these are red hats,korera wa akai boushi desu
+これらはあかいかさです,these are red umbrellas,korera wa akai kasa desu
+これらはあかいコートです,these are red coats,korera wa akai kooto desu
+これらはあかいくつです,these are red shoes,korera wa akai kutsu desu
+これらはしろいぼうしです,these are white hats,korera wa shiroi boushi desu
+これらはしろいかさです,these are white umbrellas,korera wa shiroi kasa desu
+これらはしろいコートです,these are white coats,korera wa shiroi kooto desu
+これらはしろいくつです,these are white shoes,korera wa shiroi kutsu desu
+これらはあかいぼうしですか,are these red hats,korera wa akai boushi desu ka
+これらはあかいかさですか,are these red umbrellas,korera wa akai kasa desu ka
+これらはあかいコートですか,are these red coats,korera wa akai kooto desu ka
+これらはあかいくつですか,are these red shoes,korera wa akai kutsu desu ka
+これらはしろいぼうしですか,are these white hats,korera wa shiroi boushi desu ka
+これらはしろいかさですか,are these white umbrellas,korera wa shiroi kasa desu ka
+これらはしろいコートですか,are these white coats,korera wa shiroi kooto desu ka
+これらはしろいくつですか,are these white shoes,korera wa shiroi kutsu desu ka
+それらはぼうしです,those are hats,sorera wa boushi desu
+それらはかさです,those are umbrellas,sorera wa kasa desu
+それらはコートです,those are coats,sorera wa kooto desu
+それらはくつです,those are shoes,sorera wa kutsu desu
+それらはぼうしですか,are those hats,sorera wa boushi desu ka
+それらはかさですか,are those umbrellas,sorera wa kasa desu ka
+それらはコートですか,are those coats,sorera wa kooto desu ka
+それらはくつですか,are those shoes,sorera wa kutsu desu ka
+それらはあかいぼうしです,those are red hats,sorera wa akai boushi desu
+それらはあかいかさです,those are red umbrellas,sorera wa akai kasa desu
+それらはあかいコートです,those are red coats,sorera wa akai kooto desu
+それらはあかいくつです,those are red shoes,sorera wa akai kutsu desu
+それらはしろいぼうしです,those are white hats,sorera wa shiroi boushi desu
+それらはしろいかさです,those are white umbrellas,sorera wa shiroi kasa desu
+それらはしろいコートです,those are white coats,sorera wa shiroi kooto desu
+それらはしろいくつです,those are white shoes,sorera wa shiroi kutsu desu
+それらはあかいぼうしですか,are those red hats,sorera wa akai boushi desu ka
+それらはあかいかさですか,are those red umbrellas,sorera wa akai kasa desu ka
+それらはあかいコートですか,are those red coats,sorera wa akai kooto desu ka
+それらはあかいくつですか,are those red shoes,sorera wa akai kutsu desu ka
+それらはしろいぼうしですか,are those white hats,sorera wa shiroi boushi desu ka
+それらはしろいかさですか,are those white umbrellas,sorera wa shiroi kasa desu ka
+それらはしろいコートですか,are those white coats,sorera wa shiroi kooto desu ka
+それらはしろいくつですか,are those white shoes,sorera wa shiroi kutsu desu ka
+これらはわたしのぼうしです,these are my hats,korera wa watashi no boushi desu
+これらはわたしのかさです,these are my umbrellas,korera wa watashi no kasa desu
+これらはわたしのコートです,these are my coats,korera wa watashi no kooto desu
+これらはわたしのくつです,these are my shoes,korera wa watashi no kutsu desu
+それらはわたしのぼうしです,those are my hats,sorera wa watashi no boushi desu
+それらはわたしのかさです,those are my umbrellas,sorera wa watashi no kasa desu
+それらはわたしのコートです,those are my coats,sorera wa watashi no kooto desu
+それらはわたしのくつです,those are my shoes,sorera wa watashi no kutsu desu
+これらはわたしのぼうしですか,are these my hats,korera wa watashi no boushi desu ka
+これらはわたしのかさですか,are these my umbrellas,korera wa watashi no kasa desu ka
+これらはわたしのコートですか,are these my coats,korera wa watashi no kooto desu ka
+これらはわたしのくつですか,are these my shoes,korera wa watashi no kutsu desu ka
+それらはわたしのぼうしですか,are those my hats,sorera wa watashi no boushi desu ka
+それらはわたしのかさですか,are those my umbrellas,sorera wa watashi no kasa desu ka
+それらはわたしのコートですか,are those my coats,sorera wa watashi no kooto desu ka
+それらはわたしのくつですか,are those my shoes,sorera wa watashi no kutsu desu ka
+それらはわたしのあかいぼうしですか,are those my red hats,sorera wa watashi no akai boushi desu ka
+それらはわたしのあかいかさですか,are those my red umbrellas,sorera wa watashi no akai kasa desu ka
+それらはわたしのあかいコートですか,are those my red coats,sorera wa watashi no akai kooto desu ka
+それらはわたしのあかいくつですか,are those my red shoes,sorera wa watashi no akai kutsu desu ka
+それらはわたしのしろいぼうしですか,are those my white hats,sorera wa watashi no shiroi boushi desu ka
+それらはわたしのしろいかさですか,are those my white umbrellas,sorera wa watashi no shiroi kasa desu ka
+それらはわたしのしろいコートですか,are those my white coats,sorera wa watashi no shiroi kooto desu ka
+それらはわたしのしろいくつですか,are those my white shoes,sorera wa watashi no shiroi kutsu desu ka
+これらはわたしのあかいぼうしです,these are my red hats,korera wa watashi no akai boushi desu
+これらはわたしのあかいかさです,these are my red umbrellas,korera wa watashi no akai kasa desu
+これらはわたしのあかいコートです,these are my red coats,korera wa watashi no akai kooto desu
+これらはわたしのあかいくつです,these are my red shoes,korera wa watashi no akai kutsu desu
+これらはわたしのしろいぼうしです,these are my white hats,korera wa watashi no shiroi boushi desu
+これらはわたしのしろいかさです,these are my white umbrellas,korera wa watashi no shiroi kasa desu
+これらはわたしのしろいコートです,these are my white coats,korera wa watashi no shiroi kooto desu
+これらはわたしのしろいくつです,these are my white shoes,korera wa watashi no shiroi kutsu desu
+これらはわたしのあかいぼうしですか,are these my red hats,korera wa watashi no akai boushi desu ka
+これらはわたしのあかいかさですか,are these my red umbrellas,korera wa watashi no akai kasa desu ka
+これらはわたしのあかいコートですか,are these my red coats,korera wa watashi no akai kooto desu ka
+これらはわたしのあかいくつですか,are these my red shoes,korera wa watashi no akai kutsu desu ka
+これらはわたしのしろいぼうしですか,are these my white hats,korera wa watashi no shiroi boushi desu ka
+これらはわたしのしろいかさですか,are these my white umbrellas,korera wa watashi no shiroi kasa desu ka
+これらはわたしのしろいコートですか,are these my white coats,korera wa watashi no shiroi kooto desu ka
+これらはわたしのしろいくつですか,are these my white shoes,korera wa watashi no shiroi kutsu desu ka
+はいわたしのぼうしはあかいです,yes my hat is red,hai watashi no boushi wa akai desu
+はいわたしのかさはあかいです,yes my umbrella is red,hai watashi no kasa wa akai desu
+はいわたしのコートはあかいです,yes my coat is red,hai watashi no kooto wa akai desu
+はいわたしのくつはあかいです,yes my shoe is red,hai watashi no kutsu wa akai desu
+はいわたしのぼうしはしろいです,yes my hat is white,hai watashi no boushi wa shiroi desu
+はいわたしのかさはしろいです,yes my umbrella is white,hai watashi no kasa wa shiroi desu
+はいわたしのコートはしろいです,yes my coat is white,hai watashi no kooto wa shiroi desu
+はいわたしのくつはしろいです,yes my shoe is white,hai watashi no kutsu wa shiroi desu
+いいえわたしのぼうしはあかいです,no my hat is red,iie watashi no boushi wa akai desu
+いいえわたしのかさはあかいです,no my umbrella is red,iie watashi no kasa wa akai desu
+いいえわたしのコートはあかいです,no my coat is red,iie watashi no kooto wa akai desu
+いいえわたしのくつはあかいです,no my shoe is red,iie watashi no kutsu wa akai desu
+いいえわたしのぼうしはしろいです,no my hat is white,iie watashi no boushi wa shiroi desu
+いいえわたしのかさはしろいです,no my umbrella is white,iie watashi no kasa wa shiroi desu
+いいえわたしのコートはしろいです,no my coat is white,iie watashi no kooto wa shiroi desu
+いいえわたしのくつはしろいです,no my shoe is white,iie watashi no kutsu wa shiroi desu
+はいこれらはわたしのぼうしです,yes these are my hats,hai korera wa watashi no boushi desu
+はいこれらはわたしのかさです,yes these are my umbrellas,hai korera wa watashi no kasa desu
+はいこれらはわたしのコートです,yes these are my coats,hai korera wa watashi no kooto desu
+はいこれらはわたしのくつです,yes these are my shoes,hai korera wa watashi no kutsu desu
+はいこれらはわたしのあかいぼうしです,yes these are my red hats,hai korera wa watashi no akai boushi desu
+はいこれらはわたしのあかいかさです,yes these are my red umbrellas,hai korera wa watashi no akai kasa desu
+はいこれらはわたしのあかいコートです,yes these are my red coats,hai korera wa watashi no akai kooto desu
+はいこれらはわたしのあかいくつです,yes these are my red shoes,hai korera wa watashi no akai kutsu desu
+はいこれらはわたしのしろいぼうしです,yes these are my white hats,hai korera wa watashi no shiroi boushi desu
+はいこれらはわたしのしろいかさです,yes these are my white umbrellas,hai korera wa watashi no shiroi kasa desu
+はいこれらはわたしのしろいコートです,yes these are my white coats,hai korera wa watashi no shiroi kooto desu
+はいこれらはわたしのしろいくつです,yes these are my white shoes,hai korera wa watashi no shiroi kutsu desu
+はいそれらはわたしのぼうしです,yes those are my hats,hai sorera wa watashi no boushi desu
+はいそれらはわたしのかさです,yes those are my umbrellas,hai sorera wa watashi no kasa desu
+はいそれらはわたしのコートです,yes those are my coats,hai sorera wa watashi no kooto desu
+はいそれらはわたしのくつです,yes those are my shoes,hai sorera wa watashi no kutsu desu
+はいそれらはわたしのあかいぼうしです,yes those are my red hats,hai sorera wa watashi no akai boushi desu
+はいそれらはわたしのあかいかさです,yes those are my red umbrellas,hai sorera wa watashi no akai kasa desu
+はいそれらはわたしのあかいコートです,yes those are my red coats,hai sorera wa watashi no akai kooto desu
+はいそれらはわたしのあかいくつです,yes those are my red shoes,hai sorera wa watashi no akai kutsu desu
+はいそれらはわたしのしろいぼうしです,yes those are my white hats,hai sorera wa watashi no shiroi boushi desu
+はいそれらはわたしのしろいかさです,yes those are my white umbrellas,hai sorera wa watashi no shiroi kasa desu
+はいそれらはわたしのしろいコートです,yes those are my white coats,hai sorera wa watashi no shiroi kooto desu
+はいそれらはわたしのしろいくつです,yes those are my white shoes,hai sorera wa watashi no shiroi kutsu desu
+いいえこれらはわたしのぼうしです,no these are my hats,iie korera wa watashi no boushi desu
+いいえこれらはわたしのかさです,no these are my umbrellas,iie korera wa watashi no kasa desu
+いいえこれらはわたしのコートです,no these are my coats,iie korera wa watashi no kooto desu
+いいえこれらはわたしのくつです,no these are my shoes,iie korera wa watashi no kutsu desu
+いいえこれらはわたしのあかいぼうしです,no these are my red hats,iie korera wa watashi no akai boushi desu
+いいえこれらはわたしのあかいかさです,no these are my red umbrellas,iie korera wa watashi no akai kasa desu
+いいえこれらはわたしのあかいコートです,no these are my red coats,iie korera wa watashi no akai kooto desu
+いいえこれらはわたしのあかいくつです,no these are my red shoes,iie korera wa watashi no akai kutsu desu
+いいえこれらはわたしのしろいぼうしです,no these are my white hats,iie korera wa watashi no shiroi boushi desu
+いいえこれらはわたしのしろいかさです,no these are my white umbrellas,iie korera wa watashi no shiroi kasa desu
+いいえこれらはわたしのしろいコートです,no these are my white coats,iie korera wa watashi no shiroi kooto desu
+いいえこれらはわたしのしろいくつです,no these are my white shoes,iie korera wa watashi no shiroi kutsu desu
+それらはわたしのぼうしです,no those are my hats,no sorera wa watashi no boushi desu
+それらはわたしのかさです,no those are my umbrellas,no sorera wa watashi no kasa desu
+それらはわたしのコートです,no those are my coats,no sorera wa watashi no kooto desu
+それらはわたしのくつです,no those are my shoes,no sorera wa watashi no kutsu desu
+それらはわたしのあかいぼうしです,no those are my red hats,no sorera wa watashi no akai boushi desu
+それらはわたしのあかいかさです,no those are my red umbrellas,no sorera wa watashi no akai kasa desu
+それらはわたしのあかいコートです,no those are my red coats,no sorera wa watashi no akai kooto desu
+それらはわたしのあかいくつです,no those are my red shoes,no sorera wa watashi no akai kutsu desu
+それらはわたしのしろいぼうしです,no those are my white hats,no sorera wa watashi no shiroi boushi desu
+それらはわたしのしろいかさです,no those are my white umbrellas,no sorera wa watashi no shiroi kasa desu
+それらはわたしのしろいコートです,no those are my white coats,no sorera wa watashi no shiroi kooto desu
+それらはわたしのしろいくつです,no those are my white shoes,no sorera wa watashi no shiroi kutsu desu

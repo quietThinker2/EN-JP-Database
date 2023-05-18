@@ -167,98 +167,98 @@
 ブラジルじんとカナダじんです,it is brazilian and canadian,burajiru jin to kanada jin desu
 ブラジルじんとイギリスじんです,it is brazilian and british,burajiru jin to igirisu jin desu
 アメリカじんとにほんじんですか,is it american and japanese,amerika jin to nihon jin desu ka
-アメリカじんとカナダじんですか,is it american and canada,amerika jin to kanada jin desu ka
+アメリカじんとカナダじんですか,is it american and canadian,amerika jin to kanada jin desu ka
 アメリカじんとイギリスじんですか,is it american and british,amerika jin to igirisu jin desu ka
 アメリカじんとブラジルじんですか,is it american and brazilian,amerika jin to burajiru jin desu ka
 にほんじんとアメリカじんですか,is it japanese and american,nihon jin to amerika jin desu ka
-にほんじんとカナダじんですか,is it japanese and canada,nihon jin to kanada jin desu ka
+にほんじんとカナダじんですか,is it japanese and canadian,nihon jin to kanada jin desu ka
 にほんじんとイギリスじんですか,is it japanese and british,nihon jin to igirisu jin desu ka
 にほんじんとブラジルじんですか,is it japanese and brazilian,nihon jin to burajiru jin desu ka
-カナダじんとアメリカじんですか,is it canada and american,kanada jin to amerika jin desu ka
-カナダじんとにほんじんですか,is it canada and japanese,kanada jin to nihon jin desu ka
-カナダじんとイギリスじんですか,is it canada and british,kanada jin to igirisu jin desu ka
-カナダじんとブラジルじんですか,is it canada and brazilian,kanada jin to burajiru jin desu ka
+カナダじんとアメリカじんですか,is it canadian and american,kanada jin to amerika jin desu ka
+カナダじんとにほんじんですか,is it canadian and japanese,kanada jin to nihon jin desu ka
+カナダじんとイギリスじんですか,is it canadian and british,kanada jin to igirisu jin desu ka
+カナダじんとブラジルじんですか,is it canadian and brazilian,kanada jin to burajiru jin desu ka
 イギリスじんとアメリカじんですか,is it british and american,igirisu jin to amerika jin desu ka
 イギリスじんとにほんじんですか,is it british and japanese,igirisu jin to nihon jin desu ka
-イギリスじんとカナダじんですか,is it british and canada,igirisu jin to kanada jin desu ka
+イギリスじんとカナダじんですか,is it british and canadian,igirisu jin to kanada jin desu ka
 イギリスじんとブラジルじんですか,is it british and brazilian,igirisu jin to burajiru jin desu ka
 ブラジルじんとアメリカじんですか,is it brazilian and american,burajiru jin to amerika jin desu ka
 ブラジルじんとにほんじんですか,is it brazilian and japanese,burajiru jin to nihon jin desu ka
-ブラジルじんとカナダじんですか,is it brazilian and canada,burajiru jin to kanada jin desu ka
+ブラジルじんとカナダじんですか,is it brazilian and canadian,burajiru jin to kanada jin desu ka
 ブラジルじんとイギリスじんですか,is it brazilian and british,burajiru jin to igirisu jin desu ka
 アメリカじんです,it is american,amerika jin desu
 にほんじんです,it is japanese,nihon jin desu
-カナダじんです,it is canada,kanada jin desu
+カナダじんです,it is canadian,kanada jin desu
 イギリスじんです,it is british,igirisu jin desu
 ブラジルじんです,it is brazilian,burajiru jin desu
 アメリカじんですか,is it american,amerika jin desu ka
 にほんじんですか,is it japanese,nihon jin desu ka
-カナダじんですか,is it canada,kanada jin desu ka
+カナダじんですか,is it canadian,kanada jin desu ka
 イギリスじんですか,is it british,igirisu jin desu ka
 ブラジルじんですか,is it brazilian,burajiru jin desu ka
 はいアメリカじんです,yes it is american,hai amerika jin desu
 はいにほんじんです,yes it is japanese,hai nihon jin desu
-はいカナダじんです,yes it is canada,hai kanada jin desu
+はいカナダじんです,yes it is canadian,hai kanada jin desu
 はいイギリスじんです,yes it is british,hai igirisu jin desu
 はいブラジルじんです,yes it is brazilian,hai burajiru jin desu
 いいえアメリカじんです,no it is american,iie amerika jin desu
 いいえにほんじんです,no it is japanese,iie nihon jin desu
-いいえカナダじんです,no it is canada,iie kanada jin desu
+いいえカナダじんです,no it is canadian,iie kanada jin desu
 いいえイギリスじんです,no it is british,iie igirisu jin desu
 いいえブラジルじんです,no it is brazilian,iie burajiru jin desu
 いいえアメリカじんですか,no is it american,iie amerika jin desu ka
 いいえにほんじんですか,no is it japanese,iie nihon jin desu ka
-いいえカナダじんですか,no is it canada,iie kanada jin desu ka
+いいえカナダじんですか,no is it canadian,iie kanada jin desu ka
 いいえイギリスじんですか,no is it british,iie igirisu jin desu ka
 いいえブラジルじんですか,no is it brazilian,iie burajiru jin desu ka
 これはアメリカじんです,this is american,kore wa amerika jin desu
 これはにほんじんです,this is japanese,kore wa nihon jin desu
-これはカナダじんです,this is canada,kore wa kanada jin desu
+これはカナダじんです,this is canadian,kore wa kanada jin desu
 これはイギリスじんです,this is british,kore wa igirisu jin desu
 これはブラジルじんです,this is brazilian,kore wa burajiru jin desu
 それはアメリカじんです,that is american,sore wa amerika jin desu
 それはにほんじんです,that is japanese,sore wa nihon jin desu
-それはカナダじんです,that is canada,sore wa kanada jin desu
+それはカナダじんです,that is canadian,sore wa kanada jin desu
 それはイギリスじんです,that is british,sore wa igirisu jin desu
 それはブラジルじんです,that is brazilian,sore wa burajiru jin desu
 これはアメリカじんですか,is this american,kore wa amerika jin desu ka
 これはにほんじんですか,is this japanese,kore wa nihon jin desu ka
-これはカナダじんですか,is this canada,kore wa kanada jin desu ka
+これはカナダじんですか,is this canadian,kore wa kanada jin desu ka
 これはイギリスじんですか,is this british,kore wa igirisu jin desu ka
 これはブラジルじんですか,is this brazilian,kore wa burajiru jin desu ka
 それはアメリカじんですか,is that american,sore wa amerika jin desu ka
 それはにほんじんですか,is that japanese,sore wa nihon jin desu ka
-それはカナダじんですか,is that canada,sore wa kanada jin desu ka
+それはカナダじんですか,is that canadian,sore wa kanada jin desu ka
 それはイギリスじんですか,is that british,sore wa igirisu jin desu ka
 それはブラジルじんですか,is that brazilian,sore wa burajiru jin desu ka
 なおみさんはアメリカじんです,naomi is american,naomi san wa amerika jin desu
 なおみさんはにほんじんです,naomi is japanese,naomi san wa nihon jin desu
-なおみさんはカナダじんです,naomi is canada,naomi san wa kanada jin desu
+なおみさんはカナダじんです,naomi is canadian,naomi san wa kanada jin desu
 なおみさんはイギリスじんです,naomi is british,naomi san wa igirisu jin desu
 なおみさんはブラジルじんです,naomi is brazilian,naomi san wa burajiru jin desu
 けんさんはアメリカじんです,ken is american,ken san wa amerika jin desu
 けんさんはにほんじんです,ken is japanese,ken san wa nihon jin desu
-けんさんはカナダじんです,ken is canada,ken san wa kanada jin desu
+けんさんはカナダじんです,ken is canadian,ken san wa kanada jin desu
 けんさんはイギリスじんです,ken is british,ken san wa igirisu jin desu
 けんさんはブラジルじんです,ken is brazilian,ken san wa burajiru jin desu
 はなさんはアメリカじんです,hana is american,hana wa san amerika jin desu
 はなさんはにほんじんです,hana is japanese,hana san wa nihon jin desu
-はなさんはカナダじんです,hana is canada,hana san wa kanada jin desu
+はなさんはカナダじんです,hana is canadian,hana san wa kanada jin desu
 はなさんはイギリスじんです,hana is british,hana san wa igirisu jin desu
 はなさんはブラジルじんです,hana is brazilian,hana san wa burajiru jin desu
 なおみさんはアメリカじんですか,is naomi american,naomi san wa amerika jin desu ka
 なおみさんはにほんじんですか,is naomi japanese,naomi san wa nihon jin desu ka
-なおみさんはカナダじんですか,is naomi canada,naomi san wa kanada jin desu ka
+なおみさんはカナダじんですか,is naomi canadian,naomi san wa kanada jin desu ka
 なおみさんはイギリスじんですか,is naomi british,naomi san wa igirisu jin desu ka
 なおみさんはブラジルじんですか,is naomi brazilian,naomi san wa burajiru jin desu ka
 けんさんはアメリカじんですか,is ken american,ken san wa amerika jin desu ka
 けんさんはにほんじんですか,is ken japanese,ken san wa nihon jin desu ka
-けんさんはカナダじんですか,is ken canada,ken san wa kanada jin desu ka
+けんさんはカナダじんですか,is ken canadian,ken san wa kanada jin desu ka
 けんさんはイギリスじんですか,is ken british,ken san wa igirisu jin desu ka
 けんさんはブラジルじんですか,is ken brazilian,ken san wa burajiru jin desu ka
 はなさんはアメリカじんですか,is hana american,hana san wa amerika jin desu ka
 はなさんはにほんじんですか,is hana japanese,hana san wa nihon jin desu ka
-はなさんはカナダじんですか,is hana canada,hana san wa kanada jin desu ka
+はなさんはカナダじんですか,is hana canadian,hana san wa kanada jin desu ka
 はなさんはイギリスじんですか,is hana british,hana san wa igirisu jin desu ka
 はなさんはブラジルじんですか,is hana brazilian,hana san wa burajiru jin desu ka
 いいえアメリカじんです,no they are american,iie amerika jin desu

@@ -14,6 +14,8 @@ Document Content
         Single Slot
         Two Flipped Values
         Two Ordered Values
+        Three Ordered Values
+        Four Ordered Values
     3. Segment List
     4. Github
         Why
@@ -35,6 +37,11 @@ Document Content
         1. Single Slot
         2. Two Flipped Slots
         3. Two Ordered Slots
+        4. Flipped Each of the Above    5-18-23
+        5. Three Ordered Slots          5-18-23
+        6. Four Ordered Slots           5-18-23
+        
+        ** Decided to make this project its own repository ** 5-18-23
 
 3. Segment List
     Name                        Status
@@ -47,23 +54,25 @@ Document Content
     X. Order Food               Skipped (repeate of #3)            
     ----------------------Two----------------------
     5. Introduce Yourself 1     Finished
-    X. Describe People          Skipped (repeate #4)
+    X. Describe People          Skipped (repeate of #4)
     X. Order Food               Skipped (repeate of #3)
-    6. Order Food and Drink 1   Finished                    5-12-23 **(___ and ___ please)
-    X. Introduce Yourself       Skipped (repeate #5)
+    6. Order Food and Drink 1   Finished                    5-12-23
+    X. Introduce Yourself       Skipped (repeate of #5)
     ----------------------Three----------------------
     X. Describe People 2        Skipped (repeate of #4)
     7. Take About Countries 1   FInished                    5-16-23
-    X. Order Food and Drink     Skipped (repeate #6)
+    X. Order Food and Drink     Skipped (repeate of #6)
     X. Introduce Yourself       Skipped (repeate of #5)
-    8. Ask for Directions
-    X. Take About Countries 
+    8. Ask for Directions       Finished                    5-17-23
+    X. Talk About Countries     Skipped (repeate of #7)
     ----------------------Four----------------------
-    9.
-    10.
+    X. Order Food and Drink     Skipped (repeate of #6) (pizza please)
+    9. Describe Belongings 1    Finished                    5-18-23
+    X. Ask for Directions       Skipped (repeate of #8)
     11.
     12.
     13.
+    ----------------------Five----------------------
     14.
     15.
     16.
